@@ -1,0 +1,6 @@
+run7<-read.csv("Export20191101.csv", header = T)
+run7a<-subset(run7, Identifier.1!='blank')
+run7N<-subset(run7a, Peak.Nr==4)
+run7C<-subset(run7a, Peak.Nr==5)
+run7b<-merge(run7C, run7N, by='Row', no.dups = F)
+write.csv(run7b, "Processed20191101.csv")
