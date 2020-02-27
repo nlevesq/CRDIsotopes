@@ -1,0 +1,91 @@
+---
+title: "P_natans"
+author: "Natalie Levesque"
+date: "February 19, 2020"
+output: html_document
+---
+Setup:
+```{r, echo=FALSE}
+library(dplyr)
+library(knitr)
+library(ggplot2)
+library(simmr)
+library(stargazer)
+library(viridis)
+```
+
+```{r}
+alldata<-read.csv("SI_Data - All Data.csv")
+pnatans<-read.csv("pnatanstest.csv")
+pnatans<-subset(alldata, species=="natans")
+str(pnatans)
+unique(pnatans$dC13)
+```
+Making the initial graphing table:
+This table will be used to display the mean and standard deviation in some of the following plots.
+```{r}
+summary.trophic <- pnatans %>% group_by(sampletype) %>% 
+  summarise(count = length(sampletype),
+  meandC13 = mean(dC13, na.rm=T), SdC13 =  sd(dC13, na.rm=T), 
+  meandN15 = mean(dN15, na.rm=T), SdN15 =  sd(dN15, na.rm=T))
+
+kable(summary.trophic, digits = 4)
+
+```
+
+```{r}
+# Simple Trophic Plot
+sampletype.plot <- ggplot(data = pnatans, aes(dC13, dN15)) +
+  geom_point(aes(color = sampletype), size = 3)+
+  ylab(expression(paste(delta^{15}, "N (\u2030)")))+
+  xlab(expression(paste(delta^{13}, "C (\u2030)"))) + 
+  theme(text = element_text(size=15))
+
+# Ellipse Plot for Trophic Groups
+#assign ellipse size
+p.ell <- 0.50
+
+sampletype.ellipse.plot <- sampletype.plot + 
+  stat_ellipse(aes(group = sampletype, 
+                   fill = sampletype, 
+                   color = sampletype), 
+               alpha = 0.3, 
+               level = p.ell,
+               type = "norm",
+               geom = "polygon")
+sampletype.ellipse.plot
+```
+Pond Plots of P natans:
+```{r}
+summary.pond <- pnatans %>% group_by(pond) %>% 
+  summarise(count = length(pond),
+  meandC13 = mean(dC13, na.rm=T), SdC13 =  sd(dC13, na.rm=T), 
+  meandN15 = mean(dN15, na.rm=T), SdN15 =  sd(dN15, na.rm=T))
+
+kable(summary.pond, digits = 4)
+
+```
+
+```{r}
+# Simple Trophic Plot
+pond.plot <- ggplot(data = pnatans, aes(dC13, dN15)) +
+  geom_point(aes(color = pond), size = 3)+
+  ylab(expression(paste(delta^{15}, "N (\u2030)")))+
+  xlab(expression(paste(delta^{13}, "C (\u2030)"))) + 
+  theme(text = element_text(size=15))
+pond.plot
+# Ellipse Plot for Trophic Groups
+#assign ellipse size
+p.ell <- 0.50
+
+pond.ellipse.plot <- pond.plot + 
+  stat_ellipse(aes(group = pond, 
+                   fill = pond, 
+                   color = pond), 
+               alpha = 0.3, 
+               level = p.ell,
+               type = "norm",
+               geom = "polygon")
+pond.ellipse.plot
+```
+
