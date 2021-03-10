@@ -1,0 +1,416 @@
+---
+title: "CRDSIAnalysis"
+author: "Natalie Levesque"
+date: "5/10/2020"
+output: html_document
+---
+I will be analyzing this data for my masters thesis. Due to the small amount of data I was actually able to run on the IRMS, --I will only be looking at the plant community.-- my data is not ideal.
+
+#Setup
+##Library
+```{r setup, include=FALSE}
+library(tidyverse)
+library(dplyr)
+library(knitr)
+library(ggplot2)
+library(simmr)
+library(viridis)
+library(psych)
+library(lubridate)
+
+```
+
+##Setting up the final dataset
+```{r}
+#reading in the actual data file I'll be using
+producers<-read.csv("ProducersSI.csv")
+producers
+str(producers)
+producers$date<-as.Date.character(producers$date, "%m/%d/%y")
+unique(producers$sampletype) #need to go in manually and change some of these later
+unique(producers$pond)
+
+#Need to remove Strawberry and Eyak South from the dataset as they aren't replicated.
+producers<-subset(producers, pond != "Strawberry")
+producers<-subset(producers, pond != "Eyak South")
+
+#Many of the NAs are caused by detritus, so I went in manually and made detritus the name at each taxonomic level.
+```
+
+###Pulling a new column "year" out of date
+```{r}
+producers$year<-producers$date
+producers$year<-year(producers$year)
+```
+
+#Basic Data Exploration
+```{r}
+names(producers)
+Ccorr.plot<-producers[,c(15,2,3,12,14)]
+Ncorr.plot<-producers[,c(16,2,3,12,14)]
+pairs.panels(Ccorr.plot, ellipses = F)
+pairs.panels(Ncorr.plot, ellipses = F)
+
+```
+
+#Pond Biplots
+##Ponds Table
+```{r}
+pond.summary.table <- producers %>% group_by(pond) %>% 
+  summarise(count = length(pond),
+  meandC13 = mean(dC13), SdC13 =  sd(dC13), CR = (max(dC13)-min(dC13)),
+  meandN15 = mean(dN15), SdN15 =  sd(dN15), NR = (max(dN15)-min(dN15)))
+
+kable(pond.summary.table, digits = 4)
+
+```
+##Range Bar Charts
+```{r}
+CarbonR<-ggplot(data = pond.summary.table, aes(reorder(pond, -CR), CR)) +
+  geom_bar(stat="identity")+
+  labs(x="Site", 
+       y=expression(paste(delta^{13}, " C Range (\u2030)")))+
+  theme_classic()+
+  theme(axis.text.x = element_text(size = 11, angle = 18, hjust = 0.75))
+  
+CarbonR
+
+NitrogenR<-ggplot(data = pond.summary.table, aes(reorder(pond, -NR), NR))+
+  geom_bar(stat = "identity")+
+  labs(x="Site", 
+       y=expression(paste(delta^{15}, " N Range (\u2030)")))+
+  theme_classic()+
+  theme(axis.text.x = element_text(size = 11, angle = 18, hjust = 0.75))
+  
+NitrogenR
+```
+
+##Ponds Graph
+```{r, include=FALSE}
+
+
+# Simple Plot
+first.plot <- ggplot(data = producers, aes(dC13, dN15)) +
+  geom_point(aes(color = pond), size = 3)+
+  ylab(expression(paste(delta^{15}, "N (\u2030)")))+
+  xlab(expression(paste(delta^{13}, "C (\u2030)"))) + 
+  theme(text = element_text(size=15))
+
+# Ellipse Plot
+#assign ellipse size
+p.ell <- 0.50
+
+ellipse.plot <- first.plot + 
+  stat_ellipse(aes(group = pond, 
+                   fill = pond, 
+                   color = pond), 
+               alpha = 0.3, 
+               level = p.ell,
+               type = "norm",
+               geom = "polygon")
+
+# Error bar plot
+errorbar.plot<-first.plot + 
+  geom_point(data = pond.summary.table,
+             aes(meandC13, meandN15,fill = pond), 
+             color = "black", shape = 22, size = 5,
+             alpha = 0.7) +
+  geom_errorbar(data = pond.summary.table, 
+                mapping = aes(x = meandC13, y = meandN15,
+                              ymin = meandN15 - 1.96*SdN15, 
+                              ymax = meandN15 + 1.96*SdN15), 
+                width = 0) +
+  geom_errorbarh(data = pond.summary.table, 
+                 mapping = aes(x = meandC13, y = meandN15,
+                               xmin = meandC13 - 1.96*SdC13,
+                               xmax = meandC13 + 1.96*SdC13),
+                 height = 0)
+```
+
+Plots:
+
+```{r}
+first.plot
+ellipse.plot
+```
+
+#Year Biplots
+##Year Table
+```{r}
+year.summary.table <- producers %>% group_by(year) %>% 
+  summarise(count = length(year),
+  meandC13 = mean(dC13), SdC13 =  sd(dC13), CR = (max(dC13)-min(dC13)), 
+  meandN15 = mean(dN15), SdN15 =  sd(dN15), NR = (max(dN15)-min(dN15)),)
+
+kable(year.summary.table, digits = 4)
+
+```
+##Range Bar Charts: Year
+```{r}
+CarbonR<-ggplot(data = year.summary.table, aes(reorder(year, year), CR)) +
+  geom_bar(stat="identity")+
+  geom_text(aes(label=count, vjust = -0.25))+
+  labs(x="Year", 
+       y=expression(paste(delta^{13}, " C Range (\u2030)")))+
+  theme_classic()+
+  theme(axis.text.x = element_text(size = 11))
+  
+CarbonR
+
+NitrogenR<-ggplot(data = year.summary.table, aes(reorder(year, year), NR))+
+  geom_bar(stat = "identity")+
+  geom_text(aes(label=count, vjust = -0.25))+
+  labs(x="Year", 
+       y=expression(paste(delta^{15}, " N Range (\u2030)")))+
+  theme_classic()+
+  theme(axis.text.x = element_text(size = 11), axis.text.y = element_text(size = 11))
+  
+NitrogenR
+```
+##Years Graph
+```{r, include=FALSE}
+# Simple Trophic Plot
+first.plot <- ggplot(data = producers, aes(dC13, dN15)) +
+  geom_point(aes(color = year), size = 3)+
+  ylab(expression(paste(delta^{15}, "N (\u2030)")))+
+  xlab(expression(paste(delta^{13}, "C (\u2030)"))) + 
+  theme(text = element_text(size=15))
+
+# Ellipse Plot for Trophic Groups
+#assign ellipse size
+p.ell <- 0.50
+
+ellipse.plot <- first.plot + 
+  stat_ellipse(aes(group = year, 
+                   fill = year, 
+                   color = year), 
+               alpha = 0.3, 
+               level = p.ell,
+               type = "norm",
+               geom = "polygon")
+
+# Error bar plot
+errorbar.plot<-first.plot + 
+  geom_point(data = year.summary.table,
+             aes(meandC13, meandN15,fill = year), 
+             color = "black", shape = 22, size = 5,
+             alpha = 0.7) +
+  geom_errorbar(data = year.summary.table, 
+                mapping = aes(x = meandC13, y = meandN15,
+                              ymin = meandN15 - 1.96*SdN15, 
+                              ymax = meandN15 + 1.96*SdN15), 
+                width = 0) +
+  geom_errorbarh(data = year.summary.table, 
+                 mapping = aes(x = meandC13, y = meandN15,
+                               xmin = meandC13 - 1.96*SdC13,
+                               xmax = meandC13 + 1.96*SdC13),
+                 height = 0)
+```
+
+Plots:
+
+```{r}
+first.plot
+ellipse.plot
+
+```
+
+
+
+#Genus Biplots
+##Genus Table
+```{r}
+genus.summary.table <- producers %>% group_by(genus) %>% 
+  summarise(count = length(genus),
+  meandC13 = mean(dC13), SdC13 =  sd(dC13), CR = (max(dC13)-min(dC13)),
+  meandN15 = mean(dN15), SdN15 =  sd(dN15), NR = (max(dN15)-min(dN15)),)
+
+kable(genus.summary.table, digits = 4)
+
+```
+##Range Bar Charts: Genus
+```{r}
+CarbonR<-ggplot(data = genus.summary.table, aes(reorder(genus, -CR), CR)) +
+  geom_bar(stat="identity")+
+  labs(x="Genus", 
+       y=expression(paste(delta^{13}, " C Range (\u2030)")))+
+  theme_classic()+
+  theme(axis.text.x = element_text(size = 11, angle = 18, hjust = 0.75))
+  
+CarbonR
+
+NitrogenR<-ggplot(data = genus.summary.table, aes(reorder(genus, -NR), NR))+
+  geom_bar(stat = "identity")+
+  labs(x="Genus", 
+       y=expression(paste(delta^{15}, " N Range (\u2030)")))+
+  theme_classic()+
+  theme(axis.text.x = element_text(size = 11, angle = 18, hjust = 0.75))
+  
+NitrogenR
+```
+##Genus Graph
+```{r, include=FALSE}
+# Simple Plot
+first.plot <- ggplot(data = producers, aes(dC13, dN15)) +
+  geom_point(aes(color = genus), size = 3)+
+  ylab(expression(paste(delta^{15}, "N (\u2030)")))+
+  xlab(expression(paste(delta^{13}, "C (\u2030)"))) + 
+  theme(text = element_text(size=15))
+
+# Ellipse Plot
+#assign ellipse size
+p.ell <- 0.50
+
+ellipse.plot <- first.plot + 
+  stat_ellipse(aes(group = genus, 
+                   fill = genus, 
+                   color = genus), 
+               alpha = 0.3, 
+               level = p.ell,
+               type = "norm",
+               geom = "polygon")
+
+# Error bar plot
+errorbar.plot<-first.plot + 
+  geom_point(data = genus.summary.table,
+             aes(meandC13, meandN15,fill = genus), 
+             color = "black", shape = 22, size = 5,
+             alpha = 0.7) +
+  geom_errorbar(data = genus.summary.table, 
+                mapping = aes(x = meandC13, y = meandN15,
+                              ymin = meandN15 - 1.96*SdN15, 
+                              ymax = meandN15 + 1.96*SdN15), 
+                width = 0) +
+  geom_errorbarh(data = genus.summary.table, 
+                 mapping = aes(x = meandC13, y = meandN15,
+                               xmin = meandC13 - 1.96*SdC13,
+                               xmax = meandC13 + 1.96*SdC13),
+                 height = 0)
+```
+
+Plots:
+
+```{r message=FALSE, warning=FALSE}
+first.plot
+ellipse.plot
+```
+
+#Family Biplots
+####Genus had too many NAs (56!) So i'm going up a level to increase sample size.
+##Family Table
+```{r}
+family.summary.table <- producers %>% group_by(family) %>% 
+  summarise(count = length(family),
+  meandC13 = mean(dC13), SdC13 =  sd(dC13), CR = (max(dC13)-min(dC13)),
+  meandN15 = mean(dN15), SdN15 =  sd(dN15), NR = (max(dN15)-min(dN15)),)
+
+kable(family.summary.table, digits = 4)
+
+```
+##Range Bar Charts: Family
+```{r}
+#Added the sample size above each barplot()
+
+CarbonR<-ggplot(data = family.summary.table, aes(reorder(family, -CR), CR)) +
+  geom_bar(stat="identity")+
+  geom_text(aes(label=count, vjust = -0.25))+
+  labs(x="Family", 
+       y=expression(paste(delta^{13}, " C Range (\u2030)")))+
+  theme_classic()+
+  theme(axis.text.x = element_text(size = 11, angle = 30, hjust = 0.85))
+  
+CarbonR
+
+NitrogenR<-ggplot(data = family.summary.table, aes(reorder(family, -NR), NR))+
+  geom_bar(stat = "identity")+
+  geom_text(aes(label=count, vjust = -0.25))+
+  labs(x="Family", 
+       y=expression(paste(delta^{15}, " N Range (\u2030)")))+
+  theme_classic()+
+  theme(axis.text.x = element_text(size = 11, angle = 30, hjust = 0.85))
+  
+NitrogenR
+```
+
+##Family Graph
+```{r, include=FALSE}
+# Simple Plot
+first.plot <- ggplot(data = producers, aes(dC13, dN15)) +
+  geom_point(aes(color = family), size = 3)+
+  ylab(expression(paste(delta^{15}, "N (\u2030)")))+
+  xlab(expression(paste(delta^{13}, "C (\u2030)"))) + 
+  theme(text = element_text(size=15))
+
+# Ellipse Plot
+#assign ellipse size
+p.ell <- 0.50
+
+ellipse.plot <- first.plot + 
+  stat_ellipse(aes(group = family, 
+                   fill = family, 
+                   color = family), 
+               alpha = 0.10, 
+               level = p.ell,
+               type = "norm",
+               geom = "polygon")
+
+# Error bar plot
+errorbar.plot<-first.plot + 
+  geom_point(data = family.summary.table,
+             aes(meandC13, meandN15,fill = family), 
+             color = "black", shape = 22, size = 5,
+             alpha = 0.7) +
+  geom_errorbar(data = family.summary.table, 
+                mapping = aes(x = meandC13, y = meandN15,
+                              ymin = meandN15 - 1.96*SdN15, 
+                              ymax = meandN15 + 1.96*SdN15), 
+                width = 0) +
+  geom_errorbarh(data = family.summary.table, 
+                 mapping = aes(x = meandC13, y = meandN15,
+                               xmin = meandC13 - 1.96*SdC13,
+                               xmax = meandC13 + 1.96*SdC13),
+                 height = 0)
+```
+
+Family Plots:
+
+```{r message=FALSE, warning=FALSE}
+first.plot
+ellipse.plot
+```
+
+#Sample Type Biplots
+##Sample Type Table
+```{r}
+sampletype.summary.table <- producers %>% group_by(sampletype) %>% 
+  summarise(count = length(sampletype),
+  meandC13 = mean(dC13), SdC13 =  sd(dC13), 
+  meandN15 = mean(dN15), SdN15 =  sd(dN15))
+
+```
+
+##Sample Type Graph
+```{r warning=FALSE}
+# Simple Plot
+first.plot <- ggplot(data = producers, aes(dC13, dN15)) +
+  geom_point(aes(color = sampletype), size = 3)+
+  ylab(expression(paste(delta^{15}, "N (\u2030)")))+
+  xlab(expression(paste(delta^{13}, "C (\u2030)"))) + 
+  theme(text = element_text(size=15))
+
+# Ellipse Plot
+#assign ellipse size
+p.ell <- 0.50
+
+ellipse.plot <- first.plot + 
+  stat_ellipse(aes(group = sampletype, 
+                   fill = sampletype, 
+                   color = sampletype), 
+               alpha = 0.3, 
+               level = p.ell,
+               type = "norm",
+               geom = "polygon")
+
+ellipse.plot
+```
+

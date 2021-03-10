@@ -1,0 +1,647 @@
+date,year,org.datafile,SID,waterbody,location,analysis.group,group,broad.taxa,functional.taxa,detailed.taxa,sample.type,dC13,dN15,CN
+2012,2012,CRD SI Data,7006,Tiedeman N,NA,Aquatic Predator,Invertebrate,Insect,Invert,Aeshnidae,Invert,-29.99433877,3.54023707,3.890366586
+2012,2012,CRD SI Data,7007,Tiedeman N,NA,Aquatic Predator,Invertebrate,Insect,Invert,Aeshnidae,Invert,-30.91946949,3.788313783,4.178333304
+2013,2013,CRD SI Data,8102,Scott S,NA,Aquatic Predator,Invertebrate,Insect,Invert,Aeshnidae,Invert,-31.22065345,3.010185735,4.53239529
+2013,2013,CRD SI Data,8108,Square,NA,Aquatic Predator,Invertebrate,Insect,Invert,Aeshnidae,Invert,-32.29934424,3.400746247,3.675663029
+2013,2013,CRD SI Data,8135,Rusty W,NA,Aquatic Predator,Invertebrate,Insect,Invert,Aeshnidae,Invert,-30.26402504,3.198631182,4.663325415
+2013,2013,CRD SI Data,8136,Rusty W,NA,Aquatic Predator,Invertebrate,Insect,Invert,Aeshnidae,Invert,-28.19854476,2.825138746,4.011149952
+2013,2013,CRD SI Data,8143,Tiedeman S,NA,Aquatic Predator,Invertebrate,Insect,Invert,Aeshnidae,Invert,-28.28578452,2.707242977,4.50531275
+2013,2013,CRD SI Data,8165,Storey S,NA,Aquatic Predator,Invertebrate,Insect,Invert,Aeshnidae,Invert,-29.72911791,3.405701101,4.996851521
+2013,2013,CRD SI Data,8172,Storey S,NA,Aquatic Predator,Invertebrate,Insect,Invert,Aeshnidae,Invert,-27.98335335,3.168918843,4.055955072
+2013,2013,CRD SI Data,8179,Storey N,NA,Aquatic Predator,Invertebrate,Insect,Invert,Aeshnidae,Invert,-32.35034986,3.354240972,3.726048565
+2013,2013,CRD SI Data,8194,Eyak N,NA,Aquatic Predator,Invertebrate,Insect,Invert,Aeshnidae,Invert,-32.12602516,2.720881339,5.199074577
+2013,2013,CRD SI Data,8195,Eyak N,NA,Aquatic Predator,Invertebrate,Insect,Invert,Aeshnidae,Invert,-31.7422138,3.193338929,4.722901709
+2013,2013,CRD SI Data,8211,Rusty E,NA,Aquatic Predator,Invertebrate,Insect,Invert,Aeshnidae,Invert,-30.36421923,2.654265844,4.050224308
+2013,2013,CRD SI Data,8248,Tiedeman N,NA,Aquatic Predator,Invertebrate,Insect,Invert,Aeshnidae,Invert,-30.99834222,4.757363445,5.110075631
+2013,2013,CRD SI Data,8249,Tiedeman N,NA,Aquatic Predator,Invertebrate,Insect,Invert,Aeshnidae,Invert,-30.45087269,2.836707015,4.048282707
+7/2/10,2010,Cordova_Stable_Isotope_AllData_07_10,4202,Tiedeman,Sheridan #1,Aquatic Predator,Invertebrate,Insect,predator,Aeshnidae,insect larva,-26.193,3.505,
+7/19/10,2010,Cordova_Stable_Isotope_AllData_07_10,4214,Lily Pond,,Aquatic Predator,Invertebrate,Insect,predator,Aeshnidae,insect larva,-30.322,4.669,
+7/23/10,2010,Cordova_Stable_Isotope_AllData_07_10,4235,Tiedeman,Sheridan #2,Aquatic Predator,Invertebrate,Insect,predator,Aeshnidae,insect larva,-30.011,4.443,
+7/19/10,2010,Cordova_Stable_Isotope_AllData_07_10,4215,Lily Pond,,Aquatic Predator,Invertebrate,Insect,predator,Aeshnidae,insect larva,-31.02,4.466,
+7/23/10,2010,Cordova_Stable_Isotope_AllData_07_10,4236,Tiedeman,Sheridan #2,Aquatic Predator,Invertebrate,Insect,predator,Aeshnidae,insect larva,-29.178,3.024,
+7/19/10,2010,Cordova_Stable_Isotope_AllData_07_10,4216,Lily Pond,,Aquatic Predator,Invertebrate,Insect,predator,Aeshnidae,insect larva,-30.69,4.905,
+7/23/10,2010,Cordova_Stable_Isotope_AllData_07_10,4237,Tiedeman,Sheridan #2,Aquatic Predator,Invertebrate,Insect,predator,Aeshnidae,insect larva,-30.907,3.233,
+7/23/10,2010,Cordova_Stable_Isotope_AllData_07_10,4238,Tiedeman,Sheridan #2,Aquatic Predator,Invertebrate,Insect,predator,Aeshnidae,insect larva,-30.526,3.086,
+7/19/10,2010,Cordova_Stable_Isotope_AllData_07_10,4217,Lily Pond,,Aquatic Predator,Invertebrate,Insect,predator,Aeshnidae,insect larva,-32.144,4.235,
+12-Jul-07,2007,Cordova_Stable_Isotope_AllData_07_10,5001,Hay Lily,,Aquatic Predator,Invertebrate,Insect,predator,Aeshnidae,insect larva,-33.1,5.507,
+12-Jul-07,2007,Cordova_Stable_Isotope_AllData_07_10,5004,Up,2,Aquatic Predator,Invertebrate,Insect,predator,Aeshnidae,insect larva,-28.94,3.96,
+12-Jul-07,2007,Cordova_Stable_Isotope_AllData_07_10,5008,Eyak,Up 14,Aquatic Predator,Invertebrate,Insect,predator,Aeshnidae,insect larva,-31.115,3.705,
+12-Jul-07,2007,Cordova_Stable_Isotope_AllData_07_10,5012,Beaver,Up 5,Aquatic Predator,Invertebrate,Insect,predator,Aeshnidae,insect larva,-33.026,3.887,
+12-Jul-07,2007,Cordova_Stable_Isotope_AllData_07_10,5017,Alaganik,Up 2,Aquatic Predator,Invertebrate,Insect,predator,Aeshnidae,insect larva,-32.125,3.626,
+12-Jul-07,2007,Cordova_Stable_Isotope_AllData_07_10,5018,Alaganik,Up 2,Aquatic Predator,Invertebrate,Insect,predator,Aeshnidae,insect larva,-32.168,4.042,
+12-Jul-07,2007,Cordova_Stable_Isotope_AllData_07_10,5019,Scott,Up 5,Aquatic Predator,Invertebrate,Insect,predator,Aeshnidae,insect larva,-29.539,3.68,
+12-Jul-07,2007,Cordova_Stable_Isotope_AllData_07_10,5022,Lily,,Aquatic Predator,Invertebrate,Insect,predator,Aeshnidae,insect larva,-30.978,4.585,
+12-Jul-07,2007,Cordova_Stable_Isotope_AllData_07_10,5025,Horsetail,,Aquatic Predator,Invertebrate,Insect,predator,Aeshnidae,insect larva,-29.352,4.352,
+12-Jul-07,2007,Cordova_Stable_Isotope_AllData_07_10,5026,Beaver Slough,,Aquatic Predator,Invertebrate,Insect,predator,Aeshnidae,insect larva,-29.437,4.432,
+12-Jul-07,2007,Cordova_Stable_Isotope_AllData_07_10,5030,Alaganik,2,Aquatic Predator,Invertebrate,Insect,predator,Aeshnidae,insect larva,-29.389,4.235,
+12-Jul-07,2007,Cordova_Stable_Isotope_AllData_07_10,5031,Sheridan,2,Aquatic Predator,Invertebrate,Insect,predator,Aeshnidae,insect larva,-32.899,3.904,
+7/5/09,2009,Cordova_Stable_Isotope_AllData_07_10,3992,Scott,Outwash Lily Pond,Aquatic Predator,Invertebrate,Insect,predator,Aeshnidae,insect larva,-29.891,3.684,
+12-Jul-08,2008,Cordova_Stable_Isotope_AllData_07_10,3116,McKinley Lake,,Aquatic Predator,Invertebrate,Insect,predator,Aeshnidae,whole insect,-32.684,10.163,
+6/8/09,2009,Cordova_Stable_Isotope_AllData_07_10,4116,NA,Pux 4,Semi-aquatic Producer,Macrophyte,Plant,producer,Alkali Grass,whole plant,-27.295,2.866,
+6/8/09,2009,Cordova_Stable_Isotope_AllData_07_10,4115,NA,Pux 4,Semi-aquatic Producer,Macrophyte,Plant,producer,Alkali Grass,whole plant,-27.277,1.996,
+7/18/06,200,Cordova_Stable_Isotope_AllData_07_10,4255,Lily Pond,,Terrestrial Prod.,Macrophyte,Plant,producer,Alnus,plant leaf,-26.008,-0.73,
+7/18/06,,Cordova_Stable_Isotope_AllData_07_10,4256,Lily Pond,,Terrestrial Prod.,Macrophyte,Plant,producer,Alnus,plant leaf,-26.798,-0.574,
+7/19/10,,Cordova_Stable_Isotope_AllData_07_10,4225,Lily Pond,,Aquatic Detritivore,Invertebrate,Other Invertebrate,detritivore,Amphipoda,whole invertebrate,-32.18,3.529,
+12-Jul-07,,Cordova_Stable_Isotope_AllData_07_10,5023,Lily,,Aquatic Detritivore,Invertebrate,Other Invertebrate,detritivore,Amphipoda,whole invertebrate,-30.125,5.766,
+12-Jul-07,,Cordova_Stable_Isotope_AllData_07_10,5032,Sheridan,2,Aquatic Detritivore,Invertebrate,Other Invertebrate,detritivore,Amphipoda,whole invertebrate,-30.823,4.633,
+7/5/09,,Cordova_Stable_Isotope_AllData_07_10,3962,Sheridan,Square Pond,Aquatic Detritivore,Invertebrate,Other Invertebrate,detritivore,Amphipoda,whole invertebrate,-30.512,1.636,
+7/5/09,,Cordova_Stable_Isotope_AllData_07_10,3973,Sheridan,Outwash #2,Aquatic Detritivore,Invertebrate,Other Invertebrate,detritivore,Amphipoda,whole invertebrate,-32.621,1.446,
+7/6/09,,Cordova_Stable_Isotope_AllData_07_10,4020,Alaganik,Uplift Rusty #2,Aquatic Detritivore,Invertebrate,Other Invertebrate,detritivore,Amphipoda,whole invertebrate,-25.36,0.738,
+7/8/09,,Cordova_Stable_Isotope_AllData_07_10,4050,Sheridan,Uplift Pond #2 (Tiedeman),Aquatic Detritivore,Invertebrate,Other Invertebrate,detritivore,Amphipoda,whole invertebrate,-27.067,0.702,
+7/19/10,,Cordova_Stable_Isotope_AllData_07_10,4209,Lily Pond,,Aquatic Detritivore,Invertebrate,Other Invertebrate,detritivore,Amphipoda,whole invertebrate,-30.02,5.29,
+7/23/10,,Cordova_Stable_Isotope_AllData_07_10,4229,Tiedeman,Sheridan #2,Aquatic Detritivore,Invertebrate,Other Invertebrate,detritivore,Amphipoda,whole invertebrate,-27.035,0.669,
+2013,,CRD SI Data,8061,Lily,NA,Aquatic Detritivore,Invertebrate,Other Invertebrate,detritivore,Amphipoda,whole invertebrate,-29.02092985,6.157157257,4.774732889
+2013,,CRD SI Data,8078,Rich Hate Me,NA,Aquatic Detritivore,Invertebrate,Other Invertebrate,detritivore,Amphipoda,whole invertebrate,-34.12700271,6.124259246,4.945026434
+2013,,CRD SI Data,8110,Square,NA,Aquatic Detritivore,Invertebrate,Other Invertebrate,detritivore,Amphipoda,whole invertebrate,-31.03424811,3.743463097,4.735066685
+2013,,CRD SI Data,8112,Scott S,NA,Aquatic Detritivore,Invertebrate,Other Invertebrate,detritivore,Amphipoda,whole invertebrate,-27.78209001,1.600262284,5.244541473
+2013,,CRD SI Data,8139,Rusty W,NA,Aquatic Detritivore,Invertebrate,Other Invertebrate,detritivore,Amphipoda,whole invertebrate,-27.53552257,5.247450962,4.308494209
+2013,,CRD SI Data,8159,Storey S,NA,Aquatic Detritivore,Invertebrate,Other Invertebrate,detritivore,Amphipoda,whole invertebrate,-24.51411883,3.921866608,5.164147503
+2013,,CRD SI Data,8160,Storey S,NA,Aquatic Detritivore,Invertebrate,Other Invertebrate,detritivore,Amphipoda,whole invertebrate,-23.67080114,4.006077871,5.179225577
+2013,,CRD SI Data,8186,Storey N,NA,Aquatic Detritivore,Invertebrate,Other Invertebrate,detritivore,Amphipoda,whole invertebrate,-28.40491813,1.214346292,4.956357784
+NA,,Cordova_Stable_Isotope_AllData_07_10,4167,NA,NA,Waterfowl,Waterfowl,Bird,herbivore,Anas acuta,chick,-28.012,7.339,
+NA,,Cordova_Stable_Isotope_AllData_07_10,4169,NA,NA,Waterfowl,Waterfowl,Bird,herbivore,Anas acuta,egg membrane,-24.901,7.92,
+NA,,Cordova_Stable_Isotope_AllData_07_10,4175,NA,NA,Waterfowl,Waterfowl,Bird,herbivore,Anas acuta,egg membrane,-25.315,7.822,
+NA,,Cordova_Stable_Isotope_AllData_07_10,4079,NA,NA,Waterfowl,Waterfowl,Bird,herbivore,Anas acuta,egg shell,-17.405,5.73,
+NA,,Cordova_Stable_Isotope_AllData_07_10,4168,NA,NA,Waterfowl,Waterfowl,Bird,herbivore,Anas acuta,egg shell,-16.625,6.637,
+NA,,Cordova_Stable_Isotope_AllData_07_10,4078,NA,NA,Waterfowl,Waterfowl,Bird,herbivore,Anas acuta,feather,-15.476,7.998,
+NA,,Cordova_Stable_Isotope_AllData_07_10,4166,NA,NA,Waterfowl,Waterfowl,Bird,herbivore,Anas acuta,yolk,-29.377,5.946,
+6/7/09,,Cordova_Stable_Isotope_AllData_07_10,4172,NA,NA,Waterfowl,Waterfowl,Bird,herbivore,Anas platyrhynchos,chick embryo,-27.15,7.53,
+6/7/09,,Cordova_Stable_Isotope_AllData_07_10,4171,NA,NA,Waterfowl,Waterfowl,Bird,herbivore,Anas platyrhynchos,egg membrane,-27.148,7.702,
+6/7/09,,Cordova_Stable_Isotope_AllData_07_10,4076,NA,NA,Waterfowl,Waterfowl,Bird,herbivore,Anas platyrhynchos,egg shell,-19.114,6.133,
+6/7/09,,Cordova_Stable_Isotope_AllData_07_10,4154,NA,NA,Waterfowl,Waterfowl,Bird,herbivore,Anas platyrhynchos,egg white,-28.851,7.124,
+6/7/09,,Cordova_Stable_Isotope_AllData_07_10,4153,NA,NA,Waterfowl,Waterfowl,Bird,herbivore,Anas platyrhynchos,yolk,-33.037,6.077,
+6/10/09,,Cordova_Stable_Isotope_AllData_07_10,4098,NA,4B,Terr. Predator,Terr. Invertebrate,Other Invertebrate,predator,Arachnid,whole invertebrate,-27.318,4.245,
+6/10/09,,Cordova_Stable_Isotope_AllData_07_10,4091,NA,2C,Terr. Predator,Terr. Invertebrate,Other Invertebrate,predator,Arachnid,whole invertebrate,-26.954,4.589,
+6/4/09,,Cordova_Stable_Isotope_AllData_07_10,4170,NA,NA,Waterfowl,Waterfowl,Bird,herbivore,Aythya collaris,egg membrane,-26.374,6.947,
+6/4/09,,Cordova_Stable_Isotope_AllData_07_10,4149,NA,NA,Waterfowl,Waterfowl,Bird,herbivore,Aythya collaris,egg shell,-17.729,6.037,
+6/4/09,,Cordova_Stable_Isotope_AllData_07_10,4150,NA,NA,Waterfowl,Waterfowl,Bird,herbivore,Aythya collaris,egg white,-27.466,6.243,
+6/4/09,,Cordova_Stable_Isotope_AllData_07_10,4073,NA,NA,Waterfowl,Waterfowl,Bird,herbivore,Aythya collaris,yolk,-31.535,5.848,
+7/5/09,,Cordova_Stable_Isotope_AllData_07_10,3950,Sheridan,Square Pond,Detritus,Detritus,Detritus,detritus,Benthic Organic Matter,BOM,-30.052,0.657,
+7/5/09,,Cordova_Stable_Isotope_AllData_07_10,3967,Sheridan,Outwash #2,Detritus,Detritus,Detritus,detritus,Benthic Organic Matter,BOM,-32.266,1.275,
+7/5/09,,Cordova_Stable_Isotope_AllData_07_10,3983,Scott,Outwash Lily Pond,Detritus,Detritus,Detritus,detritus,Benthic Organic Matter,BOM,-30.104,-0.895,
+7/6/09,,Cordova_Stable_Isotope_AllData_07_10,3996,Alaganik,Uplift Rusty #3,Detritus,Detritus,Detritus,detritus,Benthic Organic Matter,BOM,-25.99,0.908,
+7/6/09,,Cordova_Stable_Isotope_AllData_07_10,4008,Alaganik,Uplift Rusty #2,Detritus,Detritus,Detritus,detritus,Benthic Organic Matter,BOM,-27.98,0.088,
+7/7/09,,Cordova_Stable_Isotope_AllData_07_10,4022,Martin Lake,East Shore,Detritus,Detritus,Detritus,detritus,Benthic Organic Matter,BOM,-26.205,1.738,
+7/8/09,,Cordova_Stable_Isotope_AllData_07_10,4043,Sheridan,Uplift Pond #2 (Tiedeman),Detritus,Detritus,Detritus,detritus,Benthic Organic Matter,BOM,-30.882,-0.813,
+7/8/09,,Cordova_Stable_Isotope_AllData_07_10,4055,Sheridan,Uplift Pond #1 (Tiedeman),Detritus,Detritus,Detritus,detritus,Benthic Organic Matter,BOM,-29.657,-0.967,
+7/5/09,,Cordova_Stable_Isotope_AllData_07_10,4118,McKinley Lake,,Detritus,Detritus,Detritus,detritus,Benthic Organic Matter,BOM,-26.415,1.684,
+7/18/06,,Cordova_Stable_Isotope_AllData_07_10,4293,Sheridan,Square Pond,Detritus,Detritus,Detritus,detritus,Benthic Organic Matter,BOM,-33.19,0.275,
+7/20/06,,Cordova_Stable_Isotope_AllData_07_10,4299,Tiedeman,Sheridan #1,Detritus,Detritus,Detritus,detritus,Benthic Organic Matter,BOM,-28.417,2.141,
+7/18/06,,Cordova_Stable_Isotope_AllData_07_10,4305,Lily Pond,,Detritus,Detritus,Detritus,detritus,Benthic Organic Matter,BOM,-31.228,2.431,
+7/22/06,,Cordova_Stable_Isotope_AllData_07_10,4311,Tiedeman,Sheridan #2,Detritus,Detritus,Detritus,detritus,Benthic Organic Matter,BOM,-29.596,2.008,
+7/18/06,,Cordova_Stable_Isotope_AllData_07_10,4294,Sheridan,Square Pond,Detritus,Detritus,Detritus,detritus,Benthic Organic Matter,BOM,-32.6,1.112,
+7/20/06,,Cordova_Stable_Isotope_AllData_07_10,4300,Tiedeman,Sheridan #1,Detritus,Detritus,Detritus,detritus,Benthic Organic Matter,BOM,-29.65,1.412,
+7/18/06,,Cordova_Stable_Isotope_AllData_07_10,4306,Lily Pond,,Detritus,Detritus,Detritus,detritus,Benthic Organic Matter,BOM,-30.212,1.489,
+7/22/06,,Cordova_Stable_Isotope_AllData_07_10,4312,Tiedeman,Sheridan #2,Detritus,Detritus,Detritus,detritus,Benthic Organic Matter,BOM,-28.255,1.951,
+7/18/06,,Cordova_Stable_Isotope_AllData_07_10,4295,Sheridan,Square Pond,Detritus,Detritus,Detritus,detritus,Benthic Organic Matter,BOM,-33.059,-1.239,
+7/20/06,,Cordova_Stable_Isotope_AllData_07_10,4301,Tiedeman,Sheridan #1,Detritus,Detritus,Detritus,detritus,Benthic Organic Matter,BOM,-29.165,1.487,
+7/18/06,,Cordova_Stable_Isotope_AllData_07_10,4307,Lily Pond,,Detritus,Detritus,Detritus,detritus,Benthic Organic Matter,BOM,-31.337,1.173,
+7/22/06,,Cordova_Stable_Isotope_AllData_07_10,4313,Tiedeman,Sheridan #2,Detritus,Detritus,Detritus,detritus,Benthic Organic Matter,BOM,-28.778,2.323,
+7/18/06,,Cordova_Stable_Isotope_AllData_07_10,4296,Sheridan,Square Pond,Detritus,Detritus,Detritus,detritus,Benthic Organic Matter,BOM,-34.23,-0.336,
+7/20/06,,Cordova_Stable_Isotope_AllData_07_10,4302,Tiedeman,Sheridan #1,Detritus,Detritus,Detritus,detritus,Benthic Organic Matter,BOM,-28.604,1.552,
+7/18/06,,Cordova_Stable_Isotope_AllData_07_10,4308,Lily Pond,,Detritus,Detritus,Detritus,detritus,Benthic Organic Matter,BOM,-28.985,1.439,
+7/22/06,,Cordova_Stable_Isotope_AllData_07_10,4314,Tiedeman,Sheridan #2,Detritus,Detritus,Detritus,detritus,Benthic Organic Matter,BOM,-28.387,0.961,
+7/18/06,,Cordova_Stable_Isotope_AllData_07_10,4297,Sheridan,Square Pond,Detritus,Detritus,Detritus,detritus,Benthic Organic Matter,BOM,-34.546,-0.651,
+7/20/06,,Cordova_Stable_Isotope_AllData_07_10,4303,Tiedeman,Sheridan #1,Detritus,Detritus,Detritus,detritus,Benthic Organic Matter,BOM,-27.666,2.04,
+7/18/06,,Cordova_Stable_Isotope_AllData_07_10,4309,Lily Pond,,Detritus,Detritus,Detritus,detritus,Benthic Organic Matter,BOM,-29.229,0.556,
+7/22/06,,Cordova_Stable_Isotope_AllData_07_10,4315,Tiedeman,Sheridan #2,Detritus,Detritus,Detritus,detritus,Benthic Organic Matter,BOM,-29.561,1.97,
+7/18/06,,Cordova_Stable_Isotope_AllData_07_10,4298,Sheridan,Square Pond,Detritus,Detritus,Detritus,detritus,Benthic Organic Matter,BOM,-33.371,1.235,
+7/20/06,,Cordova_Stable_Isotope_AllData_07_10,4304,Tiedeman,Sheridan #1,Detritus,Detritus,Detritus,detritus,Benthic Organic Matter,BOM,-28.214,1.275,
+7/18/06,,Cordova_Stable_Isotope_AllData_07_10,4310,Lily Pond,,Detritus,Detritus,Detritus,detritus,Benthic Organic Matter,BOM,-30.91,0.939,
+7/22/06,,Cordova_Stable_Isotope_AllData_07_10,4316,Tiedeman,Sheridan #2,Detritus,Detritus,Detritus,detritus,Benthic Organic Matter,BOM,-29.634,0.49,
+7/5/09,,Cordova_Stable_Isotope_AllData_07_10,3951,Sheridan,Square Pond,Aquatic Producer,Epiphyton,Algae,producer,Biofilm,biofilm mix,-27.878,1.362,
+7/5/09,,Cordova_Stable_Isotope_AllData_07_10,3984,Scott,Outwash Lily Pond,Aquatic Producer,Epiphyton,Algae,producer,Biofilm,biofilm mix,-26.15,1.719,
+7/6/09,,Cordova_Stable_Isotope_AllData_07_10,4009,Alaganik,Uplift Rusty #2,Aquatic Producer,Epiphyton,Algae,producer,Biofilm,biofilm mix,-26.073,1.032,
+7/8/09,,Cordova_Stable_Isotope_AllData_07_10,4044,Sheridan,Uplift Pond #2 (Tiedeman),Aquatic Producer,Epiphyton,Algae,producer,Biofilm,biofilm mix,-24.447,0.737,
+7/8/09,,Cordova_Stable_Isotope_AllData_07_10,4056,Sheridan,Uplift Pond #1 (Tiedeman),Aquatic Producer,Epiphyton,Algae,producer,Biofilm,biofilm mix,-25.031,1.636,
+7/7/09,,Cordova_Stable_Isotope_AllData_07_10,4023,Martin Lake,East Shore,Aquatic Producer,Epiphyton,Algae,producer,Biofilm,biofilm mix,-30.925,0.611,
+7/5/09,,Cordova_Stable_Isotope_AllData_07_10,3968,Sheridan,Outwash #2,Aquatic Producer,Epiphyton,Algae,producer,Biofilm,biofilm mix,-27.933,0.336,
+6/x/2010,,Cordova_Stable_Isotope_AllData_07_10,4320,Unknown,,Waterfowl,Waterfowl,Bird,herbivore,Branta canadensis occidentalis,bird poo,-29.155,6.045,
+6/x/2010,,Cordova_Stable_Isotope_AllData_07_10,4319,Unknown,,Waterfowl,Waterfowl,Bird,herbivore,Branta canadensis occidentalis,bird poo,-27.584,5.94,
+7/20/06,,Cordova_Stable_Isotope_AllData_07_10,4321,Tiedeman,,Waterfowl,Waterfowl,Bird,herbivore,Branta canadensis occidentalis,bird poo,-28.718,7.185,
+7/20/06,,Cordova_Stable_Isotope_AllData_07_10,4323,Tiedeman,,Waterfowl,Waterfowl,Bird,herbivore,Branta canadensis occidentalis,bird poo,-32.783,6.86,
+7/20/06,,Cordova_Stable_Isotope_AllData_07_10,4324,Tiedeman,,Waterfowl,Waterfowl,Bird,herbivore,Branta canadensis occidentalis,bird poo,-28.631,8.83,
+7/8/09,,Cordova_Stable_Isotope_AllData_07_10,4147,Sheridan,Uplift Pond #1 (Tiedeman),Waterfowl,Waterfowl,Bird,herbivore,Branta canadensis occidentalis,egg membrane,-21.932,6.064,
+6/8/09,,Cordova_Stable_Isotope_AllData_07_10,4161,NA,NA,Waterfowl,Waterfowl,Bird,herbivore,Branta canadensis occidentalis,egg membrane,-23.005,5.585,
+NA,,Cordova_Stable_Isotope_AllData_07_10,4326,Tiedeman,Sand Bag 1,Waterfowl,Waterfowl,Bird,herbivore,Branta canadensis occidentalis,egg membrane,-23.973,6.471,
+7/21/06,,Cordova_Stable_Isotope_AllData_07_10,4371,McKinley Lake,Island Site,Waterfowl,Waterfowl,Bird,herbivore,Branta canadensis occidentalis,egg membrane,-25.083,5.985,
+NA,,Cordova_Stable_Isotope_AllData_07_10,4329,Tiedeman,Sand Bag 1,Waterfowl,Waterfowl,Bird,herbivore,Branta canadensis occidentalis,egg membrane,-24.068,6.729,
+7/21/06,,Cordova_Stable_Isotope_AllData_07_10,4372,McKinley Lake,Island Site,Waterfowl,Waterfowl,Bird,herbivore,Branta canadensis occidentalis,egg membrane,-24.072,5.644,
+NA,,Cordova_Stable_Isotope_AllData_07_10,4331,Tiedeman,Sand Bag 1,Waterfowl,Waterfowl,Bird,herbivore,Branta canadensis occidentalis,egg membrane,-23.955,6.714,
+7/21/06,,Cordova_Stable_Isotope_AllData_07_10,4374,McKinley Lake,Island Site,Waterfowl,Waterfowl,Bird,herbivore,Branta canadensis occidentalis,egg membrane,-24.913,6.065,
+7/21/06,,Cordova_Stable_Isotope_AllData_07_10,4375,McKinley Lake,Island Site,Waterfowl,Waterfowl,Bird,herbivore,Branta canadensis occidentalis,egg membrane,-24.692,5.93,
+6/8/09,,Cordova_Stable_Isotope_AllData_07_10,4162,NA,NA,Waterfowl,Waterfowl,Bird,herbivore,Branta canadensis occidentalis,egg mix,-25.452,1.956,
+7/8/09,,Cordova_Stable_Isotope_AllData_07_10,4072,Sheridan,Uplift Pond #1 (Tiedeman),Waterfowl,Waterfowl,Bird,herbivore,Branta canadensis occidentalis,egg shell,-16.169,5.471,
+6/8/09,,Cordova_Stable_Isotope_AllData_07_10,4081,NA,NA,Waterfowl,Waterfowl,Bird,herbivore,Branta canadensis occidentalis,egg shell,-16.894,4.321,
+NA,,Cordova_Stable_Isotope_AllData_07_10,4327,Tiedeman,Sand Bag 1,Waterfowl,Waterfowl,Bird,herbivore,Branta canadensis occidentalis,egg shell,-13.812,5.855,
+7/21/06,,Cordova_Stable_Isotope_AllData_07_10,4376,McKinley Lake,Island Site,Waterfowl,Waterfowl,Bird,herbivore,Branta canadensis occidentalis,egg shell,-14.903,5.267,
+NA,,Cordova_Stable_Isotope_AllData_07_10,4328,Tiedeman,Sand Bag 1,Waterfowl,Waterfowl,Bird,herbivore,Branta canadensis occidentalis,egg shell,-13.578,6.02,
+7/21/06,,Cordova_Stable_Isotope_AllData_07_10,4377,McKinley Lake,Island Site,Waterfowl,Waterfowl,Bird,herbivore,Branta canadensis occidentalis,egg shell,-14.537,5.049,
+NA,,Cordova_Stable_Isotope_AllData_07_10,4330,Tiedeman,Sand Bag 1,Waterfowl,Waterfowl,Bird,herbivore,Branta canadensis occidentalis,egg shell,-14.011,5.453,
+7/21/06,,Cordova_Stable_Isotope_AllData_07_10,4378,McKinley Lake,Island Site,Waterfowl,Waterfowl,Bird,herbivore,Branta canadensis occidentalis,egg shell,-15.164,5.01,
+NA,,Cordova_Stable_Isotope_AllData_07_10,4325,Tiedeman,Sand Bag 1,Waterfowl,Waterfowl,Bird,herbivore,Branta canadensis occidentalis,egg shell,-13.699,5.841,
+NA,,Cordova_Stable_Isotope_AllData_07_10,4085,NA,NA,Waterfowl,Waterfowl,Bird,herbivore,Branta canadensis occidentalis,feather,-25.755,5.626,
+6/8/09,,Cordova_Stable_Isotope_AllData_07_10,4163,NA,NA,Waterfowl,Waterfowl,Bird,herbivore,Branta canadensis occidentalis,feather,-25.506,6.167,
+NA,,Cordova_Stable_Isotope_AllData_07_10,4083,NA,NA,Waterfowl,Waterfowl,Bird,herbivore,Branta canadensis occidentalis,feather,-25.338,6.847,
+NA,,Cordova_Stable_Isotope_AllData_07_10,4084,NA,NA,Waterfowl,Waterfowl,Bird,herbivore,Branta canadensis occidentalis,feather,-25.449,6.374,
+2013,,CRD SI Data,8202,F081,NA,Waterfowl,Waterfowl,Bird,herbivore,Branta canadensis occidentalis,egg membrane,-23.08317019,7.198296049,3.337492987
+2013,,CRD SI Data,8203,F0180 unit 18,NA,Waterfowl,Waterfowl,Bird,herbivore,Branta canadensis occidentalis,egg membrane,-22.47237287,7.288444778,3.285251558
+2013,,CRD SI Data,8206,5072,NA,Waterfowl,Waterfowl,Bird,herbivore,Branta canadensis occidentalis,egg membrane,-24.69845408,7.29922343,3.343934314
+2013,,CRD SI Data,8207,106a unit 6,NA,Waterfowl,Waterfowl,Bird,herbivore,Branta canadensis occidentalis,egg membrane,-24.76889358,6.036161348,3.280735149
+2013,,CRD SI Data,8208,F159 unit 17,NA,Waterfowl,Waterfowl,Bird,herbivore,Branta canadensis occidentalis,egg membrane,-24.54889076,6.342863002,3.235282766
+NA,,Cordova_Stable_Isotope_AllData_07_10,4102,NA,1,Semi-aquatic Producer,Macrophyte,Plant,producer,Buckbean,plant seeds,-24.481,0.091,
+6/8/09,,Cordova_Stable_Isotope_AllData_07_10,4104,NA,2,Semi-aquatic Producer,Macrophyte,Plant,producer,Buckbean,plant seeds,-25.507,0.982,
+NA,,Cordova_Stable_Isotope_AllData_07_10,4106,NA,3,Semi-aquatic Producer,Macrophyte,Plant,producer,Buckbean,plant seeds,-25.679,2.159,
+6/10/09,,Cordova_Stable_Isotope_AllData_07_10,4108,NA,4,Semi-aquatic Producer,Macrophyte,Plant,producer,Buckbean,plant seeds,-26.124,1.056,
+2013,,CRD SI Data,8191,Storey N,NA,Unknown,Invertebrate,Insect,consumer,Caenis spp.,Invert,-32.20278743,-0.618092255,4.22194112
+NA,,Cordova_Stable_Isotope_AllData_07_10,4278,PWS 22,forest & meadow,Semi-aquatic Producer,Macrophyte,Plant,producer,Calamagrostis canadensis,whole plant,-26.794,0.231,
+NA,,Cordova_Stable_Isotope_AllData_07_10,4279,PWS 22,forest & meadow,Semi-aquatic Producer,Macrophyte,Plant,producer,Calamagrostis canadensis,whole plant,-26.838,0.365,
+2013,,CRD SI Data,8066,Lily,NA,Aquatic Predator,Invertebrate,Insect,Invert,Callicorixa vulnerata,whole insect,-36.15275587,1.554338477,4.050897049
+2013,,CRD SI Data,8067,Lily,NA,Aquatic Predator,Invertebrate,Insect,Invert,Callicorixa vulnerata,whole insect,-35.69321879,1.616264145,4.091544956
+2013,,CRD SI Data,8105,Scott S,NA,Aquatic Predator,Invertebrate,Insect,Invert,Callicorixa vulnerata,whole insect,-33.64297663,2.195867066,4.169455478
+2013,,CRD SI Data,8119,Eyak S,NA,Aquatic Predator,Invertebrate,Insect,Invert,Callicorixa vulnerata,whole insect,-25.66161101,1.33077553,4.033986004
+2013,,CRD SI Data,8140,Rusty W,NA,Aquatic Predator,Invertebrate,Insect,Invert,Callicorixa vulnerata,whole insect,-27.50547332,2.681484238,4.290780043
+2013,,CRD SI Data,8146,Tiedeman S,NA,Aquatic Predator,Invertebrate,Insect,Invert,Callicorixa vulnerata,whole insect,-27.67898352,1.001221858,4.047398106
+2013,,CRD SI Data,8155,Storey S,NA,Aquatic Predator,Invertebrate,Insect,Invert,Callicorixa vulnerata,whole insect,-26.57879319,1.9107035,4.130723695
+2013,,CRD SI Data,8181,Storey N,NA,Aquatic Predator,Invertebrate,Insect,Invert,Callicorixa vulnerata,whole insect,-31.6893,1.495156226,3.993709827
+2013,,CRD SI Data,8199,Eyak N,NA,Aquatic Predator,Invertebrate,Insect,Invert,Callicorixa vulnerata,whole insect,-27.27584199,1.577144528,4.865879106
+2013,,CRD SI Data,8217,Rusty E,NA,Aquatic Predator,Invertebrate,Insect,Invert,Callicorixa vulnerata,whole insect,-28.70268184,1.510078029,4.052888291
+2013,,CRD SI Data,8244,Tiedeman N,NA,Aquatic Predator,Invertebrate,Insect,Invert,Callicorixa vulnerata,whole insect,-29.86257492,1.758154742,4.089669478
+NA,,Cordova_Stable_Isotope_AllData_07_10,4280,PWS 22,forest & meadow,Terrestrial Prod.,Macrophyte,Plant,producer,Carex lyngbylei,whole plant,-25.694,5.824,
+NA,,Cordova_Stable_Isotope_AllData_07_10,4281,PWS 22,forest & meadow,Terrestrial Prod.,Macrophyte,Plant,producer,Carex lyngbylei,whole plant,-25.649,4.555,
+NA,,Cordova_Stable_Isotope_AllData_07_10,4282,PWS 22,forest & meadow,Terrestrial Prod.,Macrophyte,Plant,producer,Carex lyngbylei,whole plant,-27.444,6.181,
+6/8/09,,Cordova_Stable_Isotope_AllData_07_10,4114,NA,Pux 4,Terrestrial Prod.,Macrophyte,Plant,producer,Carex lyngbylei,whole plant,-27.182,1.188,
+6/8/09,,Cordova_Stable_Isotope_AllData_07_10,4117,NA,Pux 3,Terrestrial Prod.,Macrophyte,Plant,producer,Carex lyngbylei,whole plant,-26.33,1.534,
+7/7/09,,Cordova_Stable_Isotope_AllData_07_10,4036,Martin Lake,East Shore,Benthic Fish,Fish,Fish,predator,Catostomus catostomus,whole fish,-24.976,6.86,
+7/5/09,,Cordova_Stable_Isotope_AllData_07_10,3972,Sheridan,Outwash #2,Aquatic Producer,Algae,Plant,producer,Chara,algae,-29.148,-0.335,
+7/5/09,,Cordova_Stable_Isotope_AllData_07_10,3957,Sheridan,Square Pond,Aquatic Detritivore,Invertebrate,Insect,detritivore,Chironomidae,insect larvae,-29.015,1.198,
+7/7/09,,Cordova_Stable_Isotope_AllData_07_10,4031,Martin Lake,East Shore,Aquatic Detritivore,Invertebrate,Insect,detritivore,Chironomidae,insect larvae,-24.949,2.845,
+6/25/09,,Cordova_Stable_Isotope_AllData_07_10,4123,McKinley Lake,,Aquatic Detritivore,Invertebrate,Insect,detritivore,Chironomidae,insect larvae,-29.867,4.018,
+2013,,CRD SI Data,8085,Rich Hate Me,NA,Aquatic Detritivore,Invertebrate,Insect,detritivore,Chironomidae,insect larvae,-29.98074647,2.090382539,4.424583032
+2013,,CRD SI Data,8125,Eyak S,NA,Aquatic Detritivore,Invertebrate,Insect,detritivore,Chironomidae,insect larvae,-25.70892201,4.912215431,4.634339386
+2013,,CRD SI Data,8134,Rusty W,NA,Aquatic Detritivore,Invertebrate,Insect,detritivore,Chironomidae,insect larvae,-27.97417267,1.772108909,4.212814263
+2013,,CRD SI Data,8151,Tiedeman S,NA,Aquatic Detritivore,Invertebrate,Insect,detritivore,Chironomidae,insect larvae,-26.65633964,1.464879166,4.147782067
+2013,,CRD SI Data,8176,Storey S,NA,Aquatic Detritivore,Invertebrate,Insect,detritivore,Chironomidae,insect larvae,-30.09965023,1.803637212,5.893551458
+2013,,CRD SI Data,8219,Rusty E,NA,Aquatic Detritivore,Invertebrate,Insect,detritivore,Chironomidae,insect larvae,-28.9949749,1.747495196,4.846963239
+12-Jul-07,,Cordova_Stable_Isotope_AllData_07_10,5037,NA,NA,Aquatic Filterer,Invertebrate,Other Invertebrate,detritivore,Clam,bivalve,-25.571,3.071,
+12-Jul-07,,Cordova_Stable_Isotope_AllData_07_10,5038,NA,NA,Aquatic Filterer,Invertebrate,Other Invertebrate,detritivore,Clam,bivalve,-25.307,3.119,
+12-Jul-07,,Cordova_Stable_Isotope_AllData_07_10,5039,Alaganik,Up 2,Aquatic Filterer,Invertebrate,Other Invertebrate,detritivore,Clam,bivalve,-29.236,3.227,
+7/19/10,,Cordova_Stable_Isotope_AllData_07_10,4218,Lily Pond,,Aquatic Predator,Invertebrate,Insect,predator,Coenagrionidae,insect larvae,-34.194,4.339,
+7/21/10,,Cordova_Stable_Isotope_AllData_07_10,4206,Tiedeman,Sheridan #1,Aquatic Predator,Invertebrate,Insect,predator,Coenagrionidae,insect larvae,-25.21,4.238,
+7/23/10,,Cordova_Stable_Isotope_AllData_07_10,4239,Tiedeman,Sheridan #2,Aquatic Predator,Invertebrate,Insect,predator,Coenagrionidae,insect larvae,-29.024,2.843,
+7/23/10,,Cordova_Stable_Isotope_AllData_07_10,4240,Tiedeman,Sheridan #2,Aquatic Predator,Invertebrate,Insect,predator,Coenagrionidae,insect larvae,-29.026,2.869,
+7/23/10,,Cordova_Stable_Isotope_AllData_07_10,4241,Tiedeman,Sheridan #2,Aquatic Predator,Invertebrate,Insect,predator,Coenagrionidae,insect larvae,-29.03,2.913,
+6/10/09,,Cordova_Stable_Isotope_AllData_07_10,4090,NA,2B,Terr. Invertebrate,Terr. Invertebrate,Insect,consumer,Coleoptera,whole insect,-25.008,2.019,
+6/9/09,,Cordova_Stable_Isotope_AllData_07_10,4096,NA,3C,Terr. Invertebrate,Terr. Invertebrate,Insect,consumer,Coleoptera,whole insect,-25.195,2.489,
+6/10/09,,Cordova_Stable_Isotope_AllData_07_10,4100,NA,4D,Terr. Invertebrate,Terr. Invertebrate,Insect,consumer,Coleoptera,whole insect,-26.268,1.558,
+2013,,CRD SI Data,8062,Lily,NA,Aquatic Predator,Invertebrate,Insect,Invert,Corduliidae,whole insect,-32.18178697,4.010078242,4.780406967
+2013,,CRD SI Data,8063,Lily,NA,Aquatic Predator,Invertebrate,Insect,Invert,Corduliidae,whole insect,-32.33243934,4.528705711,3.988571309
+2013,,CRD SI Data,8083,Rich Hate Me,NA,Aquatic Predator,Invertebrate,Insect,Invert,Corduliidae,whole insect,-36.19349833,4.269391976,3.657740374
+2013,,CRD SI Data,8103,Scott S,NA,Aquatic Predator,Invertebrate,Insect,Invert,Corduliidae,whole insect,-31.73634335,3.533536822,4.767739411
+2013,,CRD SI Data,8104,Scott S,NA,Aquatic Predator,Invertebrate,Insect,Invert,Corduliidae,whole insect,-31.83096535,3.408557458,3.797121128
+2013,,CRD SI Data,8107,Square,NA,Aquatic Predator,Invertebrate,Insect,Invert,Corduliidae,whole insect,-34.93551313,2.716288949,3.93858193
+2013,,CRD SI Data,8180,Storey N,NA,Aquatic Predator,Invertebrate,Insect,Invert,Corduliidae,whole insect,-30.65710829,1.530001254,4.700187983
+6/25/09,,Cordova_Stable_Isotope_AllData_07_10,4128,McKinley Lake,,Benthic Fish,Fish,Fish,predator,Coregonus pidschian,whole fish,-24.004,15.563,
+7/4/09,,Cordova_Stable_Isotope_AllData_07_10,4140,McKinley Lake,,Benthic Fish,Fish,Fish,predator,Coregonus pidschian,whole fish,-27.37,12.044,
+7/6/09,,Cordova_Stable_Isotope_AllData_07_10,4017,Alaganik,Uplift Rusty #2,Aquatic Herbivore,Invertebrate,Insect,herbivore,Corixidae,whole insect,-28.404,1.575,
+7/6/09,,Cordova_Stable_Isotope_AllData_07_10,4002,Alaganik,Uplift Rusty #3,Aquatic Herbivore,Invertebrate,Insect,herbivore,Corixidae,whole insect,-27.09,1.615,
+7/8/09,,Cordova_Stable_Isotope_AllData_07_10,4052,Sheridan,Uplift Pond #2 (Tiedeman),Aquatic Herbivore,Invertebrate,Insect,herbivore,Corixidae,whole insect,-31.044,1.131,
+7/8/09,,Cordova_Stable_Isotope_AllData_07_10,4066,Sheridan,Uplift Pond #1 (Tiedeman),Aquatic Herbivore,Invertebrate,Insect,herbivore,Corixidae,whole insect,-25.847,1.385,
+7/19/10,,Cordova_Stable_Isotope_AllData_07_10,4192,Sheridan,Square Pond,Aquatic Herbivore,Invertebrate,Insect,herbivore,Corixidae,whole insect,-29.218,2.281,
+7/5/09,,Cordova_Stable_Isotope_AllData_07_10,3989,Scott,Outwash Lily Pond,Aquatic Herbivore,Invertebrate,Insect,herbivore,Corixidae,whole insect,-34.777,1.27,
+7/21/10,,Cordova_Stable_Isotope_AllData_07_10,4203,Tiedeman,Sheridan #1,Aquatic Herbivore,Invertebrate,Insect,herbivore,Corixidae,whole insect,-26.883,1.622,
+7/19/10,,Cordova_Stable_Isotope_AllData_07_10,4212,Lily Pond,,Aquatic Herbivore,Invertebrate,Insect,herbivore,Corixidae,whole insect,-36.475,1.899,
+7/23/10,,Cordova_Stable_Isotope_AllData_07_10,4227,Tiedeman,Sheridan #2,Aquatic Herbivore,Invertebrate,Insect,herbivore,Corixidae,whole insect,-29.607,1.894,
+7/5/09,,Cordova_Stable_Isotope_AllData_07_10,3988,Scott,Outwash Lily Pond,Aquatic Herbivore,Invertebrate,Insect,herbivore,Corixidae,whole insect,-35.549,1.35,
+7/19/10,,Cordova_Stable_Isotope_AllData_07_10,4213,Lily Pond,,Aquatic Herbivore,Invertebrate,Insect,herbivore,Corixidae,whole insect,-36.994,1.463,
+7/23/10,,Cordova_Stable_Isotope_AllData_07_10,4228,Tiedeman,Sheridan #2,Aquatic Herbivore,Invertebrate,Insect,herbivore,Corixidae,whole insect,-29.661,1.44,
+12-Jul-07,,Cordova_Stable_Isotope_AllData_07_10,5003,Up,2,Aquatic Herbivore,Invertebrate,Insect,herbivore,Corixidae,whole insect,-29.219,1.088,
+12-Jul-07,,Cordova_Stable_Isotope_AllData_07_10,5005,Pete Dahl,2,Aquatic Herbivore,Invertebrate,Insect,herbivore,Corixidae,whole insect,-26.672,2.08,
+6/25/09,,Cordova_Stable_Isotope_AllData_07_10,4131,McKinley Lake,,Benthic Fish,Fish,Fish,predator,Cottus cognatus,whole fish,-26.446,7.77,
+6/25/09,,Cordova_Stable_Isotope_AllData_07_10,4132,McKinley Lake,,Benthic Fish,Fish,Fish,predator,Cottus cognatus,whole fish,-27.266,9.457,
+6/25/09,,Cordova_Stable_Isotope_AllData_07_10,4133,McKinley Lake,,Benthic Fish,Fish,Fish,predator,Cottus cognatus,whole fish,-27.257,9.382,
+6/8/09,,Cordova_Stable_Isotope_AllData_07_10,4087,NA,1B,Terr. Invertebrate,Terr. Invertebrate,Insect,consumer,Diptera,whole insect,-25.072,3.879,
+6/10/09,,Cordova_Stable_Isotope_AllData_07_10,4097,NA,4A,Terr. Invertebrate,Terr. Invertebrate,Insect,consumer,Diptera,whole insect,-29.992,5.116,
+6/10/09,,Cordova_Stable_Isotope_AllData_07_10,4089,NA,2A,Terr. Invertebrate,Terr. Invertebrate,Insect,consumer,Diptera,whole insect,-24.261,5.19,
+6/10/09,,Cordova_Stable_Isotope_AllData_07_10,4093,NA,2E,Terr. Invertebrate,Terr. Invertebrate,Insect,consumer,Diptera,whole insect,-21.947,1.798,
+2013,,CRD SI Data,8175,Storey S,NA,Aquatic Filterer,Invertebrate,Insect,consumer,Dixella,insect larvae,-32.99947548,1.749319962,4.433939381
+7/5/09,,Cordova_Stable_Isotope_AllData_07_10,3979,Sheridan,Outwash #2,Aquatic Predator,Invertebrate,Insect,predator,Dytiscidae,insect larvae,-32.237,1.174,
+7/6/09,,Cordova_Stable_Isotope_AllData_07_10,4016,Alaganik,Uplift Rusty #2,Aquatic Predator,Invertebrate,Insect,predator,Dytiscidae,insect larvae,-27.485,3.76,
+NA,,Cordova_Stable_Isotope_AllData_07_10,4109,NA,"""Nest Island""",Aquatic Predator,Invertebrate,Insect,predator,Dytiscidae,insect larvae,-29.794,4.325,
+7/6/09,,Cordova_Stable_Isotope_AllData_07_10,4156,Alaganik,Uplift Rusty #3,Aquatic Predator,Invertebrate,Insect,predator,Dytiscidae,insect larvae,-27.668,2.796,
+7/8/09,,Cordova_Stable_Isotope_AllData_07_10,4061,Sheridan,Uplift Pond #1 (Tiedeman),Aquatic Predator,Invertebrate,Insect,predator,Dytiscidae,insect larvae,-27.85,2.709,
+7/8/09,,Cordova_Stable_Isotope_AllData_07_10,4062,Sheridan,Uplift Pond #1 (Tiedeman),Aquatic Predator,Invertebrate,Insect,predator,Dytiscidae,insect larvae,-26.588,2.696,
+7/23/10,,Cordova_Stable_Isotope_AllData_07_10,4232,Tiedeman,Sheridan #2,Aquatic Predator,Invertebrate,Insect,predator,Dytiscidae,insect larvae,-29.329,3.514,
+7/23/10,,Cordova_Stable_Isotope_AllData_07_10,4231,Tiedeman,Sheridan #2,Aquatic Predator,Invertebrate,Insect,predator,Dytiscidae,insect larvae,-29.436,2.608,
+7/23/10,,Cordova_Stable_Isotope_AllData_07_10,4230,Tiedeman,Sheridan #2,Aquatic Predator,Invertebrate,Insect,predator,Dytiscidae,insect larvae,-28.896,2.016,
+7/5/09,,Cordova_Stable_Isotope_AllData_07_10,3958,Sheridan,Square Pond,Aquatic Predator,Invertebrate,Insect,predator,Dytiscidae,mix insect,-29.832,2.805,
+12-Jul-07,,Cordova_Stable_Isotope_AllData_07_10,5000,Hay Lily,,Aquatic Predator,Invertebrate,Insect,predator,Dytiscidae,whole insect,-31.07,4.958,
+12-Jul-07,,Cordova_Stable_Isotope_AllData_07_10,5006,Pete Dahl,2,Aquatic Predator,Invertebrate,Insect,predator,Dytiscidae,whole insect,-22.758,4.402,
+12-Jul-07,,Cordova_Stable_Isotope_AllData_07_10,5013,Beaver,Up 5,Aquatic Predator,Invertebrate,Insect,predator,Dytiscidae,whole insect,-31.583,3.453,
+12-Jul-07,,Cordova_Stable_Isotope_AllData_07_10,5016,Alaganik,Up 2,Aquatic Predator,Invertebrate,Insect,predator,Dytiscidae,whole insect,-29.822,3.285,
+12-Jul-07,,Cordova_Stable_Isotope_AllData_07_10,5027,Beaver,,Aquatic Predator,Invertebrate,Insect,predator,Dytiscidae,whole insect,-28.767,3.982,
+12-Jul-07,,Cordova_Stable_Isotope_AllData_07_10,5029,Alaganik,2,Aquatic Predator,Invertebrate,Insect,predator,Dytiscidae,whole insect,-30.673,3.553,
+7/5/09,,Cordova_Stable_Isotope_AllData_07_10,3981,Sheridan,Outwash #2,Aquatic Predator,Invertebrate,Insect,predator,Dytiscidae,whole insect,-30.159,5.655,
+7/8/09,,Cordova_Stable_Isotope_AllData_07_10,4051,Sheridan,Uplift Pond #2 (Tiedeman),Aquatic Predator,Invertebrate,Insect,predator,Dytiscidae,whole insect,-30.106,5.388,
+7/21/10,,Cordova_Stable_Isotope_AllData_07_10,4205,Tiedeman,Sheridan #1,Aquatic Predator,Invertebrate,Insect,predator,Dytiscidae,whole insect,-26.571,3.659,
+7/19/10,,Cordova_Stable_Isotope_AllData_07_10,4210,Lily Pond,,Aquatic Predator,Invertebrate,Insect,predator,Dytiscidae,whole insect,-30.361,4.166,
+7/19/10,,Cordova_Stable_Isotope_AllData_07_10,4211,Lily Pond,,Aquatic Predator,Invertebrate,Insect,predator,Dytiscidae,whole insect,-30.298,4.558,
+2013,,CRD SI Data,8069,Lily,NA,Aquatic Predator,Invertebrate,Insect,predator,Dytiscidae,whole insect,-30.95477559,4.161989646,4.601067965
+2013,,CRD SI Data,8084,Rich Hate Me,NA,Aquatic Predator,Invertebrate,Insect,predator,Dytiscidae,whole insect,-34.56569481,4.120383338,3.671572447
+2013,,CRD SI Data,8095,Scott S,NA,Aquatic Predator,Invertebrate,Insect,predator,Dytiscidae,whole insect,-30.43080856,2.716412338,4.022579316
+2013,,CRD SI Data,8114,Square,NA,Aquatic Predator,Invertebrate,Insect,predator,Dytiscidae,whole insect,-31.35028559,3.830362811,4.166139779
+2013,,CRD SI Data,8115,Square,NA,Aquatic Predator,Invertebrate,Insect,predator,Dytiscidae,whole insect,-28.86740434,2.087486523,3.567981611
+2013,,CRD SI Data,8123,Eyak S,NA,Aquatic Predator,Invertebrate,Insect,predator,Dytiscidae,whole insect,-26.34572806,3.857702047,4.587494334
+2013,,CRD SI Data,8124,Eyak S,NA,Aquatic Predator,Invertebrate,Insect,predator,Dytiscidae,whole insect,-24.98033262,2.864701944,4.643927876
+2013,,CRD SI Data,8137,Rusty W,NA,Aquatic Predator,Invertebrate,Insect,predator,Dytiscidae,whole insect,-27.15069829,2.719131626,3.959454866
+2013,,CRD SI Data,8138,Rusty W,NA,Aquatic Predator,Invertebrate,Insect,predator,Dytiscidae,whole insect,-28.16074087,2.065255936,4.461297582
+2013,,CRD SI Data,8141,Tiedeman S,NA,Aquatic Predator,Invertebrate,Insect,predator,Dytiscidae,whole insect,-28.55428912,2.143522875,4.610319164
+2013,,CRD SI Data,8156,Storey S,NA,Aquatic Predator,Invertebrate,Insect,predator,Dytiscidae,whole insect,-24.37356588,3.212510556,4.474328244
+2013,,CRD SI Data,8162,Storey S,NA,Aquatic Predator,Invertebrate,Insect,predator,Dytiscidae,whole insect,-27.02662397,2.395165943,4.368309561
+2013,,CRD SI Data,8184,Storey N,NA,Aquatic Predator,Invertebrate,Insect,predator,Dytiscidae,whole insect,-33.51519871,3.492596231,5.095288053
+2013,,CRD SI Data,8185,Storey N,NA,Aquatic Predator,Invertebrate,Insect,predator,Dytiscidae,whole insect,-32.39581101,1.690903297,4.695349217
+2013,,CRD SI Data,8198,Eyak N,NA,Aquatic Predator,Invertebrate,Insect,predator,Dytiscidae,whole insect,-28.28642103,3.89433891,4.781691886
+2013,,CRD SI Data,8214,Rusty E,NA,Aquatic Predator,Invertebrate,Insect,predator,Dytiscidae,whole insect,-31.3084697,2.505662047,4.518020513
+2013,,CRD SI Data,8246,Tiedeman N,NA,Aquatic Predator,Invertebrate,Insect,predator,Dytiscidae,whole insect,-29.99248294,3.583844304,5.401199876
+2013,,CRD SI Data,8247,Tiedeman N,NA,Aquatic Predator,Invertebrate,Insect,predator,Dytiscidae,whole insect,-29.58141684,3.471434544,5.074896403
+7/6/09,,Cordova_Stable_Isotope_AllData_07_10,4012,Alaganik,Uplift Rusty #2,Semi-aquatic Producer,Macrophyte,Plant,producer,Eleocharis palustris,whole plant,-30.706,1.595,
+7/8/09,,Cordova_Stable_Isotope_AllData_07_10,4048,Sheridan,Uplift Pond #2 (Tiedeman),Semi-aquatic Producer,Macrophyte,Plant,producer,Eleocharis palustris,whole plant,-27.814,0.819,
+NA,,Cordova_Stable_Isotope_AllData_07_10,4276,PWS 22,forest & meadow,Semi-aquatic Producer,Macrophyte,Plant,producer,Eleocharis palustris,whole plant,-27.969,6.349,
+NA,,Cordova_Stable_Isotope_AllData_07_10,4277,PWS 22,forest & meadow,Semi-aquatic Producer,Macrophyte,Plant,producer,Eleocharis palustris,whole plant,-28.289,6.053,
+7/7/09,,Cordova_Stable_Isotope_AllData_07_10,4027,Martin Lake,East Shore,Aquatic Producer,Macrophyte,Plant,producer,Elodea canadensis,whole plant,-16.858,-1.456,
+2012,,CRD SI Data,7004,Tiedeman N,NA,Aquatic Predator,Invertebrate,Insect,predator,Enallagma spp.,whole insect,-31.2665095,2.524673024,4.174274353
+2012,,CRD SI Data,7005,Tiedeman N,NA,Aquatic Predator,Invertebrate,Insect,predator,Enallagma spp.,whole insect,-28.33337189,2.260122467,3.982446704
+2013,,CRD SI Data,8093,Scott S,NA,Aquatic Predator,Invertebrate,Insect,predator,Enallagma spp.,whole insect,-31.12248294,3.983953351,3.61943987
+2013,,CRD SI Data,8121,Eyak S,NA,Aquatic Predator,Invertebrate,Insect,predator,Enallagma spp.,whole insect,-24.63306988,3.73760469,4.302855875
+2013,,CRD SI Data,8122,Eyak S,NA,Aquatic Predator,Invertebrate,Insect,predator,Enallagma spp.,whole insect,-25.44492663,4.189678483,4.269044359
+2013,,CRD SI Data,8133,Rusty W,NA,Aquatic Predator,Invertebrate,Insect,predator,Enallagma spp.,whole insect,-27.83034723,2.650870063,3.638264335
+2013,,CRD SI Data,8147,Tiedeman S,NA,Aquatic Predator,Invertebrate,Insect,predator,Enallagma spp.,whole insect,-27.07024385,3.501801013,4.576322164
+2013,,CRD SI Data,8173,Storey S,NA,Aquatic Predator,Invertebrate,Insect,predator,Enallagma spp.,whole insect,-25.09892357,4.560493863,4.746469217
+2013,,CRD SI Data,8174,Storey S,NA,Aquatic Predator,Invertebrate,Insect,predator,Enallagma spp.,whole insect,-28.91989609,4.024495339,3.965312481
+2013,,CRD SI Data,8178,Storey N,NA,Aquatic Predator,Invertebrate,Insect,predator,Enallagma spp.,whole insect,-30.74654006,3.416757052,4.445757135
+2013,,CRD SI Data,8201,Eyak N,NA,Aquatic Predator,Invertebrate,Insect,predator,Enallagma spp.,whole insect,-32.63876733,5.030901745,4.774753329
+2013,,CRD SI Data,8216,Rusty E,NA,Aquatic Predator,Invertebrate,Insect,predator,Enallagma spp.,whole insect,-28.71660056,3.598380049,5.017420963
+2013,,CRD SI Data,8252,Tiedeman N,NA,Aquatic Predator,Invertebrate,Insect,predator,Enallagma spp.,whole insect,-30.01660872,3.521825126,4.530726435
+2013,,CRD SI Data,8253,Tiedeman N,NA,Aquatic Predator,Invertebrate,Insect,predator,Enallagma spp.,whole insect,-30.21796616,3.011135955,3.968914134
+7/5/09,,Cordova_Stable_Isotope_AllData_07_10,3990,Scott,Outwash Lily Pond,Unknown,Invertebrate,Insect,consumer,Ephemeroptera,insect larvae,-32.955,0.525,
+6/16/09,,Cordova_Stable_Isotope_AllData_07_10,4165,Alaganik,Uplift Rusty #3,Songbird,Blackbird,Bird,predator,Euphagus carolinus,chick embryo,-28.304,6.839,
+6/16/09,,Cordova_Stable_Isotope_AllData_07_10,4164,Alaganik,Uplift Rusty #3,Songbird,Blackbird,Bird,predator,Euphagus carolinus,egg membrane,-29.022,7.33,
+6/x/2009,,Cordova_Stable_Isotope_AllData_07_10,4352,Pete Dahl,Rusty Nest,Songbird,Blackbird,Bird,predator,Euphagus carolinus,egg membrane,-27.871,7.421,
+6/x/2009,,Cordova_Stable_Isotope_AllData_07_10,4333,Pete Dahl,Rusty Nest,Songbird,Blackbird,Bird,predator,Euphagus carolinus,egg membrane,-28.468,7.598,
+6/x/2009,,Cordova_Stable_Isotope_AllData_07_10,4334,Pete Dahl,Rusty Nest,Songbird,Blackbird,Bird,predator,Euphagus carolinus,egg mix,-30.267,6.91,
+6/16/09,,Cordova_Stable_Isotope_AllData_07_10,4075,Alaganik,Uplift Rusty #3,Songbird,Blackbird,Bird,predator,Euphagus carolinus,egg shell,-21.41,5.716,
+6/x/2009,,Cordova_Stable_Isotope_AllData_07_10,4332,Pete Dahl,Rusty Nest,Songbird,Blackbird,Bird,predator,Euphagus carolinus,egg shell,-21.499,4.639,
+6/16/09,,Cordova_Stable_Isotope_AllData_07_10,4152,Alaganik,Uplift Rusty #3,Songbird,Blackbird,Bird,predator,Euphagus carolinus,egg white,-30.253,6.712,
+6/16/09,,Cordova_Stable_Isotope_AllData_07_10,4151,Alaganik,Uplift Rusty #3,Songbird,Blackbird,Bird,predator,Euphagus carolinus,yolk,-31.671,6.496,
+2013,,CRD SI Data,8255,,NA,Songbird,Blackbird,Bird,predator,Euphagus carolinus,egg membrane,-28.17990228,7.171839357,4.798544766
+2013,,CRD SI Data,8254,,NA,Songbird,Blackbird,Bird,predator,Euphagus carolinus,egg membrane,-24.90784274,8.216388759,3.649811075
+2013,,CRD SI Data,8073,Lily,NA,Stickleback,Fish,Fish,predator,Gasterosteus aculeatus,gutted fish,-32.51820359,5.957771149,3.831987575
+2013,,CRD SI Data,8074,Lily,NA,Stickleback,Fish,Fish,predator,Gasterosteus aculeatus,gutted fish,-32.67838109,5.498208607,3.874978121
+2013,,CRD SI Data,8075,Rich Hate Me,NA,Stickleback,Fish,Fish,predator,Gasterosteus aculeatus,gutted fish,-38.32994487,7.789162174,5.579385911
+2013,,CRD SI Data,8076,Rich Hate Me,NA,Stickleback,Fish,Fish,predator,Gasterosteus aculeatus,gutted fish,-37.04659506,6.237036233,3.689234986
+2013,,CRD SI Data,8077,Rich Hate Me,NA,Stickleback,Fish,Fish,predator,Gasterosteus aculeatus,gutted fish,-37.78862213,6.358541041,3.963274566
+2013,,CRD SI Data,8087,Scott S,NA,Stickleback,Fish,Fish,predator,Gasterosteus aculeatus,gutted fish,-31.24932765,5.436476325,3.858246878
+2013,,CRD SI Data,8088,Scott S,NA,Stickleback,Fish,Fish,predator,Gasterosteus aculeatus,gutted fish,-30.92028834,5.496248852,3.738272181
+2013,,CRD SI Data,8089,Scott S,NA,Stickleback,Fish,Fish,predator,Gasterosteus aculeatus,gutted fish,-30.38957977,5.230702053,3.83127696
+12-Jul-07,,Cordova_Stable_Isotope_AllData_07_10,5045,Scott,Out 10,Stickleback,Fish,Fish,predator,Gasterosteus aculeatus,gutted fish,-33.272,7.394,
+7/7/09,,Cordova_Stable_Isotope_AllData_07_10,4038,Martin Lake,East Shore,Stickleback,Fish,Fish,predator,Gasterosteus aculeatus,whole fish,-21.028,11.396,
+7/7/09,,Cordova_Stable_Isotope_AllData_07_10,4135,Martin Lake,East Shore,Stickleback,Fish,Fish,predator,Gasterosteus aculeatus,whole fish,-22.883,10.355,
+7/7/09,,Cordova_Stable_Isotope_AllData_07_10,4137,Martin Lake,East Shore,Stickleback,Fish,Fish,predator,Gasterosteus aculeatus,whole fish,-22.858,10.26,
+7/7/09,,Cordova_Stable_Isotope_AllData_07_10,4138,Martin Lake,East Shore,Stickleback,Fish,Fish,predator,Gasterosteus aculeatus,whole fish,-24.382,7.051,
+7/7/09,,Cordova_Stable_Isotope_AllData_07_10,4142,Martin Lake,East Shore,Stickleback,Fish,Fish,predator,Gasterosteus aculeatus,whole fish,-22.769,10.451,
+NA,,Cordova_Stable_Isotope_AllData_07_10,4143,McKinley Lake,,Stickleback,Fish,Fish,predator,Gasterosteus aculeatus,whole fish,-24.444,11.116,
+NA,,Cordova_Stable_Isotope_AllData_07_10,4144,McKinley Lake,,Stickleback,Fish,Fish,predator,Gasterosteus aculeatus,whole fish,-29.754,12.214,
+NA,,Cordova_Stable_Isotope_AllData_07_10,4145,McKinley Lake,,Stickleback,Fish,Fish,predator,Gasterosteus aculeatus,whole fish,-29.628,11.411,
+7/5/09,,Cordova_Stable_Isotope_AllData_07_10,4070,Sheridan,Square Pond,Stickleback,Fish,Fish,predator,Gasterosteus aculeatus,whole fish,-31.563,6.75,
+7/5/09,,Cordova_Stable_Isotope_AllData_07_10,3966,Sheridan,Square Pond,Stickleback,Fish,Fish,predator,Gasterosteus aculeatus,whole fish,-30.857,4.474,
+7/5/09,,Cordova_Stable_Isotope_AllData_07_10,3982,Sheridan,Outwash #2,Stickleback,Fish,Fish,predator,Gasterosteus aculeatus,whole fish,-32.875,4.859,
+7/5/09,,Cordova_Stable_Isotope_AllData_07_10,3995,Scott,Outwash Lily Pond,Stickleback,Fish,Fish,predator,Gasterosteus aculeatus,whole fish,-33.864,4.381,
+7/7/09,,Cordova_Stable_Isotope_AllData_07_10,4039,Martin Lake,East Shore,Stickleback,Fish,Fish,predator,Gasterosteus aculeatus,whole fish,-24.332,4.839,
+7/8/09,,Cordova_Stable_Isotope_AllData_07_10,4071,Sheridan,Uplift Pond #1 (Tiedeman),Stickleback,Fish,Fish,predator,Gasterosteus aculeatus,whole fish,-23.295,3.81,
+6/25/09,,Cordova_Stable_Isotope_AllData_07_10,4134,McKinley Lake,,Stickleback,Fish,Fish,predator,Gasterosteus aculeatus,whole fish,-32.401,10.562,
+7/21/06,,Cordova_Stable_Isotope_AllData_07_10,4358,McKinley Lake,,Stickleback,Fish,Fish,predator,Gasterosteus aculeatus,whole fish,-27.567,8.755,
+7/21/06,,Cordova_Stable_Isotope_AllData_07_10,4359,McKinley Lake,,Stickleback,Fish,Fish,predator,Gasterosteus aculeatus,whole fish,-28.988,8.766,
+7/18/06,,Cordova_Stable_Isotope_AllData_07_10,4361,Lily Pond,,Stickleback,Fish,Fish,predator,Gasterosteus aculeatus,whole fish,-32.968,6.267,
+7/20/06,,Cordova_Stable_Isotope_AllData_07_10,4362,Tiedeman,Sheridan #1,Stickleback,Fish,Fish,predator,Gasterosteus aculeatus,whole fish,-26.572,5.175,
+7/20/06,,Cordova_Stable_Isotope_AllData_07_10,4363,Tiedeman,Sheridan #1,Stickleback,Fish,Fish,predator,Gasterosteus aculeatus,whole fish,-26.571,5.018,
+7/20/06,,Cordova_Stable_Isotope_AllData_07_10,4364,Tiedeman,Sheridan #1,Stickleback,Fish,Fish,predator,Gasterosteus aculeatus,whole fish,-25.326,5.058,
+7/20/06,,Cordova_Stable_Isotope_AllData_07_10,4365,Tiedeman,Sheridan #1,Stickleback,Fish,Fish,predator,Gasterosteus aculeatus,whole fish,-24.329,4.414,
+7/22/06,,Cordova_Stable_Isotope_AllData_07_10,4370,Tiedeman,Sheridan #2,Stickleback,Fish,Fish,predator,Gasterosteus aculeatus,whole fish,-29.085,4.898,
+7/18/06,,Cordova_Stable_Isotope_AllData_07_10,4366,Sheridan,Square Pond,Stickleback,Fish,Fish,predator,Gasterosteus aculeatus,whole fish,-29.682,5.051,
+7/18/06,,Cordova_Stable_Isotope_AllData_07_10,4367,Sheridan,Square Pond,Stickleback,Fish,Fish,predator,Gasterosteus aculeatus,whole fish,-32.055,5.609,
+7/18/06,,Cordova_Stable_Isotope_AllData_07_10,4368,Sheridan,Square Pond,Stickleback,Fish,Fish,predator,Gasterosteus aculeatus,whole fish,-32.097,6.397,
+7/18/06,,Cordova_Stable_Isotope_AllData_07_10,4369,Sheridan,Square Pond,Stickleback,Fish,Fish,predator,Gasterosteus aculeatus,whole fish,-34.879,6.307,
+7/21/06,,Cordova_Stable_Isotope_AllData_07_10,4355,McKinley Lake,,Stickleback,Fish,Fish,predator,Gasterosteus aculeatus,whole fish,-29.603,12.042,
+7/21/06,,Cordova_Stable_Isotope_AllData_07_10,4356,McKinley Lake,,Stickleback,Fish,Fish,predator,Gasterosteus aculeatus,whole fish,-28.278,10.29,
+7/21/06,,Cordova_Stable_Isotope_AllData_07_10,4357,McKinley Lake,,Stickleback,Fish,Fish,predator,Gasterosteus aculeatus,whole fish,-28.174,10.217,
+7/18/06,,Cordova_Stable_Isotope_AllData_07_10,4360,Lily Pond,,Stickleback,Fish,Fish,predator,Gasterosteus aculeatus,whole fish,-32.527,7.769,
+12-Jul-07,,Cordova_Stable_Isotope_AllData_07_10,5040,Alaganik,Up 2,Stickleback,Fish,Fish,predator,Gasterosteus aculeatus,whole fish,-30.03,7.506,
+12-Jul-07,,Cordova_Stable_Isotope_AllData_07_10,5041,Alaganik,Out 2,Stickleback,Fish,Fish,predator,Gasterosteus aculeatus,whole fish,-27.185,7.671,
+12-Jul-07,,Cordova_Stable_Isotope_AllData_07_10,5046,Scott,Out 10,Stickleback,Fish,Fish,predator,Gasterosteus aculeatus,whole fish,-30.092,4.556,
+12-Jul-07,,Cordova_Stable_Isotope_AllData_07_10,5049,Hay Lily,,Stickleback,Fish,Fish,predator,Gasterosteus aculeatus,whole fish,-33.754,7.264,
+12-Jul-07,,Cordova_Stable_Isotope_AllData_07_10,5050,Scott,Up 5,Stickleback,Fish,Fish,predator,Gasterosteus aculeatus,whole fish,-33.697,6.997,
+12-Jul-07,,Cordova_Stable_Isotope_AllData_07_10,5052,Scott,Up 5 March,Stickleback,Fish,Fish,predator,Gasterosteus aculeatus,whole fish,-29.698,4.048,
+12-Jul-07,,Cordova_Stable_Isotope_AllData_07_10,5053,Scott,Out,Stickleback,Fish,Fish,predator,Gasterosteus aculeatus,whole fish,-32.479,5.232,
+12-Jul-07,,Cordova_Stable_Isotope_AllData_07_10,5054,Lily,,Stickleback,Fish,Fish,predator,Gasterosteus aculeatus,whole fish,-30.749,5.723,
+2013,,CRD SI Data,8111,Square,NA,Stickleback,Fish,Fish,predator,Gasterosteus aculeatus,whole fish,-33.6452356,4.59966095,3.932893969
+2013,,CRD SI Data,8149,Tiedeman S,NA,Stickleback,Fish,Fish,predator,Gasterosteus aculeatus,whole fish,-26.94286886,5.585417703,5.099396456
+2013,,CRD SI Data,8150,Tiedeman S,NA,Stickleback,Fish,Fish,predator,Gasterosteus aculeatus,whole fish,-26.22882461,4.998471088,3.975344734
+2013,,CRD SI Data,8153,Storey S,NA,Stickleback,Fish,Fish,predator,Gasterosteus aculeatus,whole fish,-27.56524527,4.937718684,4.805871102
+2013,,CRD SI Data,8154,Storey S,NA,Stickleback,Fish,Fish,predator,Gasterosteus aculeatus,whole fish,-27.93191665,6.05869853,4.85615099
+2013,,CRD SI Data,8187,Storey N,NA,Stickleback,Fish,Fish,predator,Gasterosteus aculeatus,whole fish,-30.92897266,5.748077366,4.834843111
+2013,,CRD SI Data,8188,Storey N,NA,Stickleback,Fish,Fish,predator,Gasterosteus aculeatus,whole fish,-30.70993476,5.584437826,4.671516375
+2013,,CRD SI Data,8189,Storey N,NA,Stickleback,Fish,Fish,predator,Gasterosteus aculeatus,whole fish,-30.29405223,6.340903247,4.556614895
+2013,,CRD SI Data,8132,Rusty W,NA,Stickleback,Fish,Fish,predator,Gasterosteus aculeatus,whole fish,-27.74182649,4.525190261,3.73133988
+2013,,CRD SI Data,8086,Scott S,NA,Aquatic Herbivore,Invertebrate,Other Invertebrate,herbivore,Gastropoda,gastropod,-17.1790856,0.957336336,9.679293588
+2013,,CRD SI Data,8090,Scott S,NA,Aquatic Herbivore,Invertebrate,Other Invertebrate,herbivore,Gastropoda,gastropod,-19.74396577,1.018294415,8.039611695
+2013,,CRD SI Data,8091,Scott S,NA,Aquatic Herbivore,Invertebrate,Other Invertebrate,herbivore,Gastropoda,gastropod,-16.42013879,1.143113339,9.182811399
+2013,,CRD SI Data,8167,Storey S,NA,Aquatic Herbivore,Invertebrate,Other Invertebrate,herbivore,Gastropoda,gastropod,-29.26965517,2.807305772,4.631670687
+2013,,CRD SI Data,8183,Storey N,NA,Aquatic Herbivore,Invertebrate,Other Invertebrate,herbivore,Gastropoda,gastropod,-23.09490659,1.489007104,9.668199634
+6/7/09,,Cordova_Stable_Isotope_AllData_07_10,4159,NA,NA,Seabird,Divingbird,Bird,consumer,Gavia stellata,egg membrane,-13.855,16.473,
+6/7/09,,Cordova_Stable_Isotope_AllData_07_10,4082,NA,NA,Seabird,Divingbird,Bird,consumer,Gavia stellata,egg shell,-10.079,14.188,
+2013,,CRD SI Data,8065,Lily,NA,Aquatic Predator,Invertebrate,Insect,predator,Gerris spp.,whole insect,-29.2862296,3.913319386,4.658339
+2013,,CRD SI Data,8113,Scott S,NA,Aquatic Predator,Invertebrate,Insect,predator,Gerris spp.,whole insect,-28.72641756,5.266649097,3.693265859
+2013,,CRD SI Data,8128,Rusty W,NA,Aquatic Predator,Invertebrate,Insect,predator,Gerris spp.,whole insect,-27.10648894,3.323610546,3.822444967
+2013,,CRD SI Data,8168,Storey S,NA,Aquatic Predator,Invertebrate,Insect,predator,Gerris spp.,whole insect,-30.0887396,3.476042274,5.369927046
+2013,,CRD SI Data,8192,Storey N,NA,Aquatic Predator,Invertebrate,Insect,predator,Gerris spp.,whole insect,-29.76428108,3.362439802,4.204442537
+2013,,CRD SI Data,8215,Rusty E,NA,Aquatic Predator,Invertebrate,Insect,predator,Gerris spp.,whole insect,-27.67548053,3.237893575,5.180228863
+2013,,CRD SI Data,8070,Lily,NA,Aquatic Predator,Invertebrate,Insect,predator,Gyrinus spp.,whole insect,-28.50549031,3.11796159,4.487126145
+2013,,CRD SI Data,8094,Scott S,NA,Aquatic Predator,Invertebrate,Insect,predator,Gyrinus spp.,whole insect,-32.91041381,3.268905405,3.480655782
+2013,,CRD SI Data,8158,Storey S,NA,Aquatic Predator,Invertebrate,Insect,predator,Gyrinus spp.,whole insect,-28.88386156,3.043097309,6.57858712
+2013,,CRD SI Data,8213,Rusty E,NA,Aquatic Predator,Invertebrate,Insect,predator,Gyrinus spp.,whole insect,-30.92167728,2.677837481,5.651784342
+2013,,CRD SI Data,8096,Scott S,NA,Aquatic Herbivore,Invertebrate,Insect,herbivore,Haliplus spp.,whole insect,-32.05008459,2.193914515,5.542215683
+2013,,CRD SI Data,8157,Storey S,NA,Aquatic Herbivore,Invertebrate,Insect,herbivore,Haliplus spp.,whole insect,-26.67863425,2.373370087,6.024259268
+7/21/06,,Cordova_Stable_Isotope_AllData_07_10,4386,McKinley Lake,,Aquatic Herbivore,Invertebrate,Other Invertebrate,herbivore,Helisoma,gastropod,-28.535,4.371,
+7/21/06,,Cordova_Stable_Isotope_AllData_07_10,4346,McKinley Lake,,Aquatic Herbivore,Invertebrate,Other Invertebrate,herbivore,Helisoma,gastropod,-28.517,4.116,
+7/5/09,,Cordova_Stable_Isotope_AllData_07_10,3953,Sheridan,Square Pond,Semi-aquatic Producer,Macrophyte,Plant,producer,Hippuris vulgaris,whole plant,-26.969,2.863,
+7/5/09,,Cordova_Stable_Isotope_AllData_07_10,3970,Sheridan,Outwash #2,Semi-aquatic Producer,Macrophyte,Plant,producer,Hippuris vulgaris,whole plant,-27.16,4.722,
+7/6/09,,Cordova_Stable_Isotope_AllData_07_10,4011,Alaganik,Uplift Rusty #2,Semi-aquatic Producer,Macrophyte,Plant,producer,Hippuris vulgaris,whole plant,-28.855,1.282,
+7/8/09,,Cordova_Stable_Isotope_AllData_07_10,4046,Sheridan,Uplift Pond #2 (Tiedeman),Semi-aquatic Producer,Macrophyte,Plant,producer,Hippuris vulgaris,whole plant,-25.705,1.277,
+7/8/09,,Cordova_Stable_Isotope_AllData_07_10,4059,Sheridan,Uplift Pond #1 (Tiedeman),Semi-aquatic Producer,Macrophyte,Plant,producer,Hippuris vulgaris,whole plant,-27.058,3.239,
+7/19/06,,Cordova_Stable_Isotope_AllData_07_10,4243,Sheridan,Square Pond,Semi-aquatic Producer,Macrophyte,Plant,producer,Hippuris vulgaris,whole plant,-26.562,1.485,
+7/22/06,,Cordova_Stable_Isotope_AllData_07_10,4257,Tiedeman,Sheridan #2,Semi-aquatic Producer,Macrophyte,Plant,producer,Hippuris vulgaris,whole plant,-26.88,1.77,
+7/19/06,,Cordova_Stable_Isotope_AllData_07_10,4244,Sheridan,Square Pond,Semi-aquatic Producer,Macrophyte,Plant,producer,Hippuris vulgaris,whole plant,-26.441,3.416,
+7/22/06,,Cordova_Stable_Isotope_AllData_07_10,4258,Tiedeman,Sheridan #2,Semi-aquatic Producer,Macrophyte,Plant,producer,Hippuris vulgaris,whole plant,-26.998,1.496,
+7/19/06,,Cordova_Stable_Isotope_AllData_07_10,4245,Sheridan,Square Pond,Semi-aquatic Producer,Macrophyte,Plant,producer,Hippuris vulgaris,whole plant,-26.615,1.845,
+7/22/06,,Cordova_Stable_Isotope_AllData_07_10,4259,Tiedeman,Sheridan #2,Semi-aquatic Producer,Macrophyte,Plant,producer,Hippuris vulgaris,whole plant,-27.258,1.559,
+2012,,CRD SI Data,7001,Tiedeman N,NA,Aquatic Predator,Invertebrate,Other Invertebrate,Invert,Hirudinea,whole insect,-29.02652399,4.583903555,4.43314866
+2012,,CRD SI Data,7002,Tiedeman N,NA,Aquatic Predator,Invertebrate,Other Invertebrate,Invert,Hirudinea,whole insect,-29.74194604,3.94045458,4.465955805
+2012,,CRD SI Data,7003,Tiedeman N,NA,Aquatic Predator,Invertebrate,Other Invertebrate,Invert,Hirudinea,whole insect,-26.58425313,9.159756057,3.451456112
+2013,,CRD SI Data,8071,Lily,NA,Aquatic Predator,Invertebrate,Other Invertebrate,Invert,Hirudinea,whole insect,-30.55303595,4.795760153,4.782989607
+2013,,CRD SI Data,8072,Lily,NA,Aquatic Predator,Invertebrate,Other Invertebrate,Invert,Hirudinea,whole insect,-30.99930805,5.425660306,4.741947446
+2013,,CRD SI Data,8079,Rich Hate Me,NA,Aquatic Predator,Invertebrate,Other Invertebrate,Invert,Hirudinea,whole insect,-30.52176848,4.956379854,3.792747106
+2013,,CRD SI Data,8080,Rich Hate Me,NA,Aquatic Predator,Invertebrate,Other Invertebrate,Invert,Hirudinea,whole insect,-30.41091108,4.96605574,3.823443882
+2013,,CRD SI Data,8097,Scott S,NA,Aquatic Predator,Invertebrate,Other Invertebrate,Invert,Hirudinea,whole insect,-26.45604967,7.788511569,3.670969037
+2013,,CRD SI Data,8099,Scott S,NA,Aquatic Predator,Invertebrate,Other Invertebrate,Invert,Hirudinea,whole insect,-27.200784,7.379221608,4.307700261
+2013,,CRD SI Data,8100,Scott S,NA,Aquatic Predator,Invertebrate,Other Invertebrate,Invert,Hirudinea,whole insect,-27.06718662,8.566452771,4.150793611
+2013,,CRD SI Data,8109,Square,NA,Aquatic Predator,Invertebrate,Other Invertebrate,Invert,Hirudinea,whole insect,-33.43102335,4.393746351,3.89306316
+2013,,CRD SI Data,8116,Eyak S,NA,Aquatic Predator,Invertebrate,Other Invertebrate,Invert,Hirudinea,whole insect,-26.79612878,4.548017753,4.764271335
+2013,,CRD SI Data,8127,Rusty W,NA,Aquatic Predator,Invertebrate,Other Invertebrate,Invert,Hirudinea,whole insect,-26.73178582,7.877546124,3.531473147
+2013,,CRD SI Data,8148,Tiedeman S,NA,Aquatic Predator,Invertebrate,Other Invertebrate,Invert,Hirudinea,whole insect,-26.11448379,6.149006838,3.506966642
+2013,,CRD SI Data,8163,Storey S,NA,Aquatic Predator,Invertebrate,Other Invertebrate,Invert,Hirudinea,whole insect,-25.18489567,5.370300334,4.57465942
+2013,,CRD SI Data,8171,Storey S,NA,Aquatic Predator,Invertebrate,Other Invertebrate,Invert,Hirudinea,whole insect,-24.69829166,5.240515917,3.945704925
+2013,,CRD SI Data,8177,Storey N,NA,Aquatic Predator,Invertebrate,Other Invertebrate,Invert,Hirudinea,whole insect,-30.42309515,5.594571321,4.036166396
+2013,,CRD SI Data,8200,Eyak N,NA,Aquatic Predator,Invertebrate,Other Invertebrate,Invert,Hirudinea,whole insect,-31.16314307,4.650680995,4.915385911
+2013,,CRD SI Data,8212,Rusty E,NA,Aquatic Predator,Invertebrate,Other Invertebrate,Invert,Hirudinea,whole insect,-29.797818,4.211018726,4.29551012
+2013,,CRD SI Data,8241,Tiedeman N,NA,Aquatic Predator,Invertebrate,Other Invertebrate,Invert,Hirudinea,whole insect,-27.3460709,12.20547914,3.615664099
+12-Jul-07,,Cordova_Stable_Isotope_AllData_07_10,5010,Pete Dahl,Out 1,Aquatic Predator,Invertebrate,Insect,predator,Hydrophilidae,whole insect,-32.643,4.613,
+7/5/09,,Cordova_Stable_Isotope_AllData_07_10,3994,Scott,Outwash Lily Pond,Aquatic Predator,Invertebrate,Insect,predator,Hydrophilidae,whole insect,-29.744,3.328,
+7/6/09,,Cordova_Stable_Isotope_AllData_07_10,4019,Alaganik,Uplift Rusty #2,Aquatic Predator,Invertebrate,Insect,predator,Hydrophilidae,whole insect,-28.61,3.266,
+7/8/09,,Cordova_Stable_Isotope_AllData_07_10,4053,Sheridan,Uplift Pond #2 (Tiedeman),Aquatic Predator,Invertebrate,Insect,predator,Hydrophilidae,whole insect,-29.857,2.971,
+7/8/09,,Cordova_Stable_Isotope_AllData_07_10,4063,Sheridan,Uplift Pond #1 (Tiedeman),Aquatic Predator,Invertebrate,Insect,predator,Hydrophilidae,whole insect,-27.54,3.258,
+7/5/09,,Cordova_Stable_Isotope_AllData_07_10,3976,Sheridan,Outwash #2,Aquatic Predator,Invertebrate,Insect,predator,Hydrophilidae,whole insect,-31.684,3.714,
+7/5/09,,Cordova_Stable_Isotope_AllData_07_10,3974,Sheridan,Outwash #2,Aquatic Predator,Invertebrate,Insect,predator,Hydrophilidae,whole insect,-32.755,3.904,
+7/5/09,,Cordova_Stable_Isotope_AllData_07_10,3961,Sheridan,Square Pond,Unknown,Invertebrate,Insect,consumer,Insect,mix insect,-29.285,0.49,
+6/8/09,,Cordova_Stable_Isotope_AllData_07_10,4088,NA,1C,Unknown,Terr. Invertebrate,Insect,consumer,Insect,whole insect,-30.861,3.952,
+6/9/09,,Cordova_Stable_Isotope_AllData_07_10,4095,NA,3B,Unknown,Terr. Invertebrate,Insect,consumer,Insect,whole insect,-27.187,4.339,
+6/7/09,,Cordova_Stable_Isotope_AllData_07_10,4148,NA,NA,Seabird,Seabird,Bird,predator,Larus canus brachyrhynchus,egg membrane,-16.633,13.957,
+6/7/09,,Cordova_Stable_Isotope_AllData_07_10,4157,NA,NA,Seabird,Seabird,Bird,predator,Larus canus brachyrhynchus,egg mix,-20.025,10.23,
+6/7/09,,Cordova_Stable_Isotope_AllData_07_10,4077,NA,NA,Seabird,Seabird,Bird,predator,Larus canus brachyrhynchus,egg shell,-11.677,11.621,
+7/7/09,,Cordova_Stable_Isotope_AllData_07_10,4029,Martin Lake,East Shore,Aquatic Predator,Invertebrate,Other Invertebrate,predator,Leech,whole invertebrate,-23.119,5.883,
+7/19/10,,Cordova_Stable_Isotope_AllData_07_10,4219,Lily Pond,,Aquatic Predator,Invertebrate,Other Invertebrate,predator,Leech,whole invertebrate,-29.368,5.655,
+7/19/10,,Cordova_Stable_Isotope_AllData_07_10,4220,Lily Pond,,Aquatic Predator,Invertebrate,Other Invertebrate,predator,Leech,whole invertebrate,-24.72,9.985,
+7/5/09,,Cordova_Stable_Isotope_AllData_07_10,3965,Sheridan,Square Pond,Aquatic Predator,Invertebrate,Other Invertebrate,predator,Leech,whole invertebrate,-28.675,5.556,
+7/5/09,,Cordova_Stable_Isotope_AllData_07_10,3991,Scott,Outwash Lily Pond,Aquatic Predator,Invertebrate,Other Invertebrate,predator,Leech,whole invertebrate,-28.904,4.723,
+7/6/09,,Cordova_Stable_Isotope_AllData_07_10,4021,Alaganik,Uplift Rusty #2,Aquatic Predator,Invertebrate,Other Invertebrate,predator,Leech,whole invertebrate,-27.681,3.989,
+6/25/09,,Cordova_Stable_Isotope_AllData_07_10,4124,McKinley Lake,,Aquatic Predator,Invertebrate,Other Invertebrate,predator,Leech,whole invertebrate,-29.12,8.275,
+7/6/09,,Cordova_Stable_Isotope_AllData_07_10,4003,Alaganik,Uplift Rusty #3,Aquatic Predator,Invertebrate,Other Invertebrate,predator,Leech,whole invertebrate,-26.926,4.124,
+7/8/09,,Cordova_Stable_Isotope_AllData_07_10,4068,Sheridan,Uplift Pond #1 (Tiedeman),Aquatic Predator,Invertebrate,Other Invertebrate,predator,Leech,whole invertebrate,-26.868,4.854,
+7/6/09,,Cordova_Stable_Isotope_AllData_07_10,4006,Alaganik,Uplift Rusty #3,Aquatic Predator,Invertebrate,Other Invertebrate,predator,Leech,whole invertebrate,-26.545,4.12,
+7/8/09,,Cordova_Stable_Isotope_AllData_07_10,4069,Sheridan,Uplift Pond #1 (Tiedeman),Aquatic Predator,Invertebrate,Other Invertebrate,predator,Leech,whole invertebrate,-25.095,10.885,
+12-Jul-07,,Cordova_Stable_Isotope_AllData_07_10,5009,Eyak,Up 14,Aquatic Predator,Invertebrate,Insect,predator,Lestidae,whole insect,-30.54,3.977,
+12-Jul-07,,Cordova_Stable_Isotope_AllData_07_10,5034,Pete Dahl,2,Aquatic Predator,Invertebrate,Insect,predator,Lestidae,whole insect,-23.921,4.328,
+7/19/10,,Cordova_Stable_Isotope_AllData_07_10,4193,Sheridan,Square Pond,Aquatic Predator,Invertebrate,Insect,predator,Libellulidae,insect larvae,-29.903,3.421,
+7/21/10,,Cordova_Stable_Isotope_AllData_07_10,4200,Tiedeman,Sheridan #1,Aquatic Predator,Invertebrate,Insect,predator,Libellulidae,insect larvae,-27.302,3.825,
+7/19/10,,Cordova_Stable_Isotope_AllData_07_10,4221,Lily Pond,,Aquatic Predator,Invertebrate,Insect,predator,Libellulidae,insect larvae,-31.942,4.689,
+7/19/10,,Cordova_Stable_Isotope_AllData_07_10,4222,Lily Pond,,Aquatic Predator,Invertebrate,Insect,predator,Libellulidae,insect larvae,-31.278,4.337,
+7/19/10,,Cordova_Stable_Isotope_AllData_07_10,4223,Lily Pond,,Aquatic Predator,Invertebrate,Insect,predator,Libellulidae,insect larvae,-30.532,4.803,
+7/23/10,,Cordova_Stable_Isotope_AllData_07_10,4233,Tiedeman,Sheridan #2,Aquatic Predator,Invertebrate,Insect,predator,Libellulidae,insect larvae,-28.885,1.986,
+7/19/10,,Cordova_Stable_Isotope_AllData_07_10,4194,Sheridan,Square Pond,Aquatic Predator,Invertebrate,Insect,predator,Libellulidae,insect larvae,-33.673,2.686,
+7/21/10,,Cordova_Stable_Isotope_AllData_07_10,4201,Tiedeman,Sheridan #1,Aquatic Predator,Invertebrate,Insect,predator,Libellulidae,insect larvae,-25.848,2.7,
+7/19/10,,Cordova_Stable_Isotope_AllData_07_10,4224,Lily Pond,,Aquatic Predator,Invertebrate,Insect,predator,Libellulidae,insect larvae,-30.393,4.598,
+7/23/10,,Cordova_Stable_Isotope_AllData_07_10,4234,Tiedeman,Sheridan #2,Aquatic Predator,Invertebrate,Insect,predator,Libellulidae,insect larvae,-27.731,1.774,
+7/21/06,,Cordova_Stable_Isotope_AllData_07_10,4351,McKinley Lake,,Aquatic Predator,Invertebrate,Insect,predator,Libellulidae,insect larvae,-27.398,4.412,
+12-Jul-07,,Cordova_Stable_Isotope_AllData_07_10,5002,Hay Lily,,Aquatic Predator,Invertebrate,Insect,predator,Libellulidae,whole insect,-33.173,4.078,
+12-Jul-07,,Cordova_Stable_Isotope_AllData_07_10,5007,Eyak,Up 14,Aquatic Predator,Invertebrate,Insect,predator,Libellulidae,whole insect,-30.847,3.142,
+12-Jul-07,,Cordova_Stable_Isotope_AllData_07_10,5015,Alaganik,Up 2,Aquatic Predator,Invertebrate,Insect,predator,Libellulidae,whole insect,-29.479,3.926,
+12-Jul-07,,Cordova_Stable_Isotope_AllData_07_10,5020,Scott,Up 5,Aquatic Predator,Invertebrate,Insect,predator,Libellulidae,whole insect,-29.223,2.906,
+12-Jul-07,,Cordova_Stable_Isotope_AllData_07_10,5028,Beaver,,Aquatic Predator,Invertebrate,Insect,predator,Libellulidae,whole insect,-29.849,3.46,
+2012,,CRD SI Data,7008,Tiedeman N,NA,Aquatic Predator,Invertebrate,Insect,predator,Libellulidae,whole insect,-30.35808124,2.354120284,4.508642883
+2012,,CRD SI Data,7009,Tiedeman N,NA,Aquatic Predator,Invertebrate,Insect,predator,Libellulidae,whole insect,-29.57399352,2.245586722,4.27716831
+2012,,CRD SI Data,7010,Tiedeman N,NA,Aquatic Predator,Invertebrate,Insect,predator,Libellulidae,whole insect,-30.89905537,2.014952902,4.356483928
+2012,,CRD SI Data,7011,Tiedeman N,NA,Aquatic Predator,Invertebrate,Insect,predator,Libellulidae,whole insect,-30.12703054,2.576032656,4.194659255
+2013,,CRD SI Data,8082,Rich Hate Me,NA,Aquatic Predator,Invertebrate,Insect,predator,Libellulidae,whole insect,-37.90847177,3.403400215,3.944094905
+2013,,CRD SI Data,8117,Eyak S,NA,Aquatic Predator,Invertebrate,Insect,predator,Libellulidae,whole insect,-27.55215855,2.421415762,4.743404445
+2013,,CRD SI Data,8118,Eyak S,NA,Aquatic Predator,Invertebrate,Insect,predator,Libellulidae,whole insect,-24.76743312,1.90978149,4.026297342
+2013,,CRD SI Data,8142,Tiedeman S,NA,Aquatic Predator,Invertebrate,Insect,predator,Libellulidae,whole insect,-28.30420181,1.806677822,4.454718692
+2013,,CRD SI Data,8196,Eyak N,NA,Aquatic Predator,Invertebrate,Insect,predator,Libellulidae,whole insect,-28.09190692,1.971713231,4.95015334
+2013,,CRD SI Data,8250,Tiedeman N,NA,Aquatic Predator,Invertebrate,Insect,predator,Libellulidae,whole insect,-30.5798528,2.4500562,4.494413274
+2013,,CRD SI Data,8251,Tiedeman N,NA,Aquatic Predator,Invertebrate,Insect,predator,Libellulidae,whole insect,-31.00112596,3.325108045,4.507557175
+12-Jul-07,,Cordova_Stable_Isotope_AllData_07_10,5011,Pete Dahl,Out 1,Aquatic Herbivore,Invertebrate,Insect,herbivore,Limnephilidae,insect larvae,-37.847,1.216,
+12-Jul-08,,Cordova_Stable_Isotope_AllData_07_10,3115,McKinley Lake,,Aquatic Herbivore,Invertebrate,Insect,herbivore,Limnephilus,insect larvae,-31.587,8.561,
+7/21/06,,Cordova_Stable_Isotope_AllData_07_10,4380,McKinley Lake,Island Site,Waterfowl,Divingbird,Bird,consumer,Loon,egg membrane,-24.004,13.664,
+7/21/06,,Cordova_Stable_Isotope_AllData_07_10,4379,McKinley Lake,Island Site,Waterfowl,Divingbird,Bird,consumer,Loon,egg shell,-15.746,12.313,
+7/21/06,,Cordova_Stable_Isotope_AllData_07_10,4382,McKinley Lake,Island Site,Waterfowl,Waterfowl,Bird,predator,Loon,egg membrane,-23.44,13.662,
+7/21/06,,Cordova_Stable_Isotope_AllData_07_10,4383,McKinley Lake,Island Site,Waterfowl,Waterfowl,Bird,predator,Loon,egg mix,-15.891,12.506,
+7/21/06,,Cordova_Stable_Isotope_AllData_07_10,4381,McKinley Lake,Island Site,Waterfowl,Waterfowl,Bird,predator,Loon,egg shell,-15.372,11.076,
+7/5/09,,Cordova_Stable_Isotope_AllData_07_10,3986,Scott,Outwash Lily Pond,Semi-aquatic Producer,Macrophyte,Plant,producer,Menyanthes trifoliata,plant leaf,-28.064,-0.031,
+7/22/06,,Cordova_Stable_Isotope_AllData_07_10,4246,Tiedeman,Sheridan #1,Semi-aquatic Producer,Macrophyte,Plant,producer,Menyanthes trifoliata,plant leaf,-26.838,0.605,
+7/18/06,,Cordova_Stable_Isotope_AllData_07_10,4249,Lily Pond,,Semi-aquatic Producer,Macrophyte,Plant,producer,Menyanthes trifoliata,plant leaf,-27.037,0.842,
+7/22/06,,Cordova_Stable_Isotope_AllData_07_10,4260,Tiedeman,Sheridan #2,Semi-aquatic Producer,Macrophyte,Plant,producer,Menyanthes trifoliata,plant leaf,-26.594,0.15,
+7/22/06,,Cordova_Stable_Isotope_AllData_07_10,4247,Tiedeman,Sheridan #1,Semi-aquatic Producer,Macrophyte,Plant,producer,Menyanthes trifoliata,plant leaf,-27.406,0.998,
+7/18/06,,Cordova_Stable_Isotope_AllData_07_10,4250,Lily Pond,,Semi-aquatic Producer,Macrophyte,Plant,producer,Menyanthes trifoliata,plant leaf,-27.333,0.442,
+7/22/06,,Cordova_Stable_Isotope_AllData_07_10,4261,Tiedeman,Sheridan #2,Semi-aquatic Producer,Macrophyte,Plant,producer,Menyanthes trifoliata,plant leaf,-27.118,0.861,
+7/22/06,,Cordova_Stable_Isotope_AllData_07_10,4248,Tiedeman,Sheridan #1,Semi-aquatic Producer,Macrophyte,Plant,producer,Menyanthes trifoliata,plant leaf,-26.924,1.102,
+7/18/06,,Cordova_Stable_Isotope_AllData_07_10,4251,Lily Pond,,Semi-aquatic Producer,Macrophyte,Plant,producer,Menyanthes trifoliata,plant leaf,-27.153,0.842,
+7/22/06,,Cordova_Stable_Isotope_AllData_07_10,4262,Tiedeman,Sheridan #2,Semi-aquatic Producer,Macrophyte,Plant,producer,Menyanthes trifoliata,plant leaf,-26.9,1.103,
+12-Jul-08,,Cordova_Stable_Isotope_AllData_07_10,3118,McKinley Lake,,Unknown,Invertebrate,Insect,consumer,Mixed pupae,insect pupae,-28.31,7.573,
+12-Jul-08,,Cordova_Stable_Isotope_AllData_07_10,3113,McKinley Lake,,Unknown,Invertebrate,Insect,consumer,Mixed species,mix invertebrate,-25.474,5.005,
+7/6/09,,Cordova_Stable_Isotope_AllData_07_10,4007,Alaganik,Uplift Rusty #3,Aquatic Filterer,Invertebrate,Other Invertebrate,consumer,Mussels,bivalve,-26.662,2.739,
+7/7/09,,Cordova_Stable_Isotope_AllData_07_10,4030,Martin Lake,East Shore,Aquatic Filterer,Invertebrate,Other Invertebrate,consumer,Mussels,bivalve,-29.174,3.446,
+6/25/09,,Cordova_Stable_Isotope_AllData_07_10,4120,McKinley Lake,,Aquatic Filterer,Invertebrate,Other Invertebrate,consumer,Mussels,bivalve,-31.83,5.594,
+7/20/06,,Cordova_Stable_Isotope_AllData_07_10,4252,Lily Pond,,Terrestrial Prod.,Macrophyte,Plant,producer,Myrica gale,plant leaf,-29.395,0.523,
+7/18/06,,Cordova_Stable_Isotope_AllData_07_10,4253,Lily Pond,,Terrestrial Prod.,Macrophyte,Plant,producer,Myrica gale,plant leaf,-30.264,0.47,
+7/18/06,,Cordova_Stable_Isotope_AllData_07_10,4254,Lily Pond,,Terrestrial Prod.,Macrophyte,Plant,producer,Myrica gale,plant leaf,-30.222,0.438,
+7/8/09,,Cordova_Stable_Isotope_AllData_07_10,4060,Sheridan,Uplift Pond #1 (Tiedeman),Aquatic Producer,Macrophyte,Plant,producer,Myriophyllum farwellii,whole plant,-26.433,2.072,
+2013,,CRD SI Data,8068,Lily,NA,Aquatic Filterer,Invertebrate,Insect,detritivore,Nematoceran,insect larvae,-30.85244568,2.0091051,4.253423846
+2013,,CRD SI Data,8126,Eyak S,NA,Aquatic Filterer,Invertebrate,Insect,detritivore,Nematoceran,insect larvae,-25.84707013,3.95143657,4.474856223
+2013,,CRD SI Data,8190,Storey N,NA,Aquatic Filterer,Invertebrate,Insect,detritivore,Nematoceran,insect larvae,-33.13884,1.192824363,4.297899519
+2013,,CRD SI Data,8197,Eyak N,NA,Aquatic Filterer,Invertebrate,Insect,detritivore,Nematoceran,insect larvae,-31.61253773,3.02526291,4.366858692
+2013,,CRD SI Data,8220,Rusty E,NA,Aquatic Filterer,Invertebrate,Insect,detritivore,Nematoceran,insect larvae,-28.90682302,3.717573158,4.627564144
+2013,,CRD SI Data,8243,Tiedeman N,NA,Aquatic Filterer,Invertebrate,Insect,detritivore,Nematoceran,insect larvae,-29.95165471,2.757244943,4.039999295
+7/5/09,,Cordova_Stable_Isotope_AllData_07_10,3952,Sheridan,Square Pond,Aquatic Producer,Macrophyte,Plant,producer,Nuphar polysepalum,plant leaf,-25.871,0.176,
+7/5/09,,Cordova_Stable_Isotope_AllData_07_10,3985,Scott,Outwash Lily Pond,Aquatic Producer,Macrophyte,Plant,producer,Nuphar polysepalum,plant leaf,-25.828,0.529,
+7/6/09,,Cordova_Stable_Isotope_AllData_07_10,3998,Alaganik,Uplift Rusty #3,Aquatic Producer,Macrophyte,Plant,producer,Nuphar polysepalum,plant leaf,-25.944,1.455,
+7/6/09,,Cordova_Stable_Isotope_AllData_07_10,4010,Alaganik,Uplift Rusty #2,Aquatic Producer,Macrophyte,Plant,producer,Nuphar polysepalum,plant leaf,-26.126,0.873,
+7/8/09,,Cordova_Stable_Isotope_AllData_07_10,4047,Sheridan,Uplift Pond #2 (Tiedeman),Aquatic Producer,Macrophyte,Plant,producer,Nuphar polysepalum,plant leaf,-22.482,0.932,
+7/8/09,,Cordova_Stable_Isotope_AllData_07_10,4057,Sheridan,Uplift Pond #1 (Tiedeman),Aquatic Producer,Macrophyte,Plant,producer,Nuphar polysepalum,plant leaf,-23.978,1.522,
+7/19/10,,Cordova_Stable_Isotope_AllData_07_10,4174,Sheridan,Square Pond,Aquatic Producer,Macrophyte,Plant,producer,Nuphar polysepalum,plant leaf,-23.797,0.346,
+7/21/10,,Cordova_Stable_Isotope_AllData_07_10,4178,Tiedeman,Sheridan #1,Aquatic Producer,Macrophyte,Plant,producer,Nuphar polysepalum,plant leaf,-24.297,1.855,
+7/19/10,,Cordova_Stable_Isotope_AllData_07_10,4181,Lily Pond,,Aquatic Producer,Macrophyte,Plant,producer,Nuphar polysepalum,plant leaf,-24.426,0.641,
+7/23/10,,Cordova_Stable_Isotope_AllData_07_10,4184,Tiedeman,Sheridan #2,Aquatic Producer,Macrophyte,Plant,producer,Nuphar polysepalum,plant leaf,-23.165,1.721,
+7/22/10,,Cordova_Stable_Isotope_AllData_07_10,4187,McKinley Lake,,Aquatic Producer,Macrophyte,Plant,producer,Nuphar polysepalum,plant leaf,-23.381,0.809,
+7/19/10,,Cordova_Stable_Isotope_AllData_07_10,4176,Sheridan,Square Pond,Aquatic Producer,Macrophyte,Plant,producer,Nuphar polysepalum,plant leaf,-24.511,-1.231,
+7/21/10,,Cordova_Stable_Isotope_AllData_07_10,4179,Tiedeman,Sheridan #1,Aquatic Producer,Macrophyte,Plant,producer,Nuphar polysepalum,plant leaf,-24.362,1.984,
+7/19/10,,Cordova_Stable_Isotope_AllData_07_10,4182,Lily Pond,,Aquatic Producer,Macrophyte,Plant,producer,Nuphar polysepalum,plant leaf,-24.122,0.871,
+7/23/10,,Cordova_Stable_Isotope_AllData_07_10,4185,Tiedeman,Sheridan #2,Aquatic Producer,Macrophyte,Plant,producer,Nuphar polysepalum,plant leaf,-23.956,1.626,
+7/22/10,,Cordova_Stable_Isotope_AllData_07_10,4188,McKinley Lake,,Aquatic Producer,Macrophyte,Plant,producer,Nuphar polysepalum,plant leaf,-23.932,0.737,
+7/19/10,,Cordova_Stable_Isotope_AllData_07_10,4177,Sheridan,Square Pond,Aquatic Producer,Macrophyte,Plant,producer,Nuphar polysepalum,plant leaf,-23.913,0.293,
+7/21/10,,Cordova_Stable_Isotope_AllData_07_10,4180,Tiedeman,Sheridan #1,Aquatic Producer,Macrophyte,Plant,producer,Nuphar polysepalum,plant leaf,-24.728,1.907,
+7/19/10,,Cordova_Stable_Isotope_AllData_07_10,4183,Lily Pond,,Aquatic Producer,Macrophyte,Plant,producer,Nuphar polysepalum,plant leaf,-24.596,0.95,
+7/23/10,,Cordova_Stable_Isotope_AllData_07_10,4186,Tiedeman,Sheridan #2,Aquatic Producer,Macrophyte,Plant,producer,Nuphar polysepalum,plant leaf,-23.501,1.354,
+7/22/10,,Cordova_Stable_Isotope_AllData_07_10,4189,McKinley Lake,,Aquatic Producer,Macrophyte,Plant,producer,Nuphar polysepalum,plant leaf,-24.956,3.499,
+7/22/10,,Cordova_Stable_Isotope_AllData_07_10,4190,McKinley Lake,,Aquatic Producer,Macrophyte,Plant,producer,Nuphar polysepalum,plant leaf,-24.871,-0.234,
+6/8/09,,Cordova_Stable_Isotope_AllData_07_10,4101,NA,1,Aquatic Producer,Macrophyte,Plant,producer,Nuphar polysepalum,plant seeds,-22.684,1.594,
+6/8/09,,Cordova_Stable_Isotope_AllData_07_10,4103,NA,2,Aquatic Producer,Macrophyte,Plant,producer,Nuphar polysepalum,plant seeds,-23.503,1.462,
+6/9/09,,Cordova_Stable_Isotope_AllData_07_10,4105,NA,3,Aquatic Producer,Macrophyte,Plant,producer,Nuphar polysepalum,plant seeds,-22.731,1.872,
+6/10/09,,Cordova_Stable_Isotope_AllData_07_10,4107,NA,4,Aquatic Producer,Macrophyte,Plant,producer,Nuphar polysepalum,plant seeds,-23.448,1.342,
+6/9/09,,Cordova_Stable_Isotope_AllData_07_10,4113,NA,Site:3 061109,Terr. Predator,Aerial Invertebrate,Insect,predator,Odonata,whole insect,-28.051,4.475,
+7/7/09,,Cordova_Stable_Isotope_AllData_07_10,4028,Martin Lake,East Shore,Unknown,Invertebrate,Insect,predator,Odonata,whole insect,-27.18,4.151,
+6/25/09,,Cordova_Stable_Isotope_AllData_07_10,4127,McKinley Lake,,Unknown,Invertebrate,Insect,predator,Odonata,whole insect,-28.443,4.283,
+7/5/09,,Cordova_Stable_Isotope_AllData_07_10,3993,Scott,Outwash Lily Pond,Unknown,Invertebrate,Insect,predator,Odonata,whole insect,-30.013,3.754,
+7/6/09,,Cordova_Stable_Isotope_AllData_07_10,4005,Alaganik,Uplift Rusty #3,Unknown,Invertebrate,Insect,predator,Odonata,whole insect,-27.226,3.119,
+7/5/09,,Cordova_Stable_Isotope_AllData_07_10,3959,Sheridan,Square Pond,Unknown,Invertebrate,Insect,predator,Odonata,whole insect,-28.783,2.593,
+7/5/09,,Cordova_Stable_Isotope_AllData_07_10,3977,Sheridan,Outwash #2,Unknown,Invertebrate,Insect,predator,Odonata,whole insect,-32.925,3.381,
+7/6/09,,Cordova_Stable_Isotope_AllData_07_10,4013,Alaganik,Uplift Rusty #2,Unknown,Invertebrate,Insect,predator,Odonata,whole insect,-27.319,3.609,
+7/8/09,,Cordova_Stable_Isotope_AllData_07_10,4054,Sheridan,Uplift Pond #2 (Tiedeman),Unknown,Invertebrate,Insect,predator,Odonata,whole insect,-27.916,3.02,
+7/8/09,,Cordova_Stable_Isotope_AllData_07_10,4064,Sheridan,Uplift Pond #1 (Tiedeman),Unknown,Invertebrate,Insect,predator,Odonata,whole insect,-24.56,3.015,
+7/5/09,,Cordova_Stable_Isotope_AllData_07_10,3964,Sheridan,Square Pond,Unknown,Invertebrate,Insect,predator,Odonata,whole insect,-31.99,2.608,
+7/5/09,,Cordova_Stable_Isotope_AllData_07_10,3978,Sheridan,Outwash #2,Unknown,Invertebrate,Insect,predator,Odonata,whole insect,-32.429,3.842,
+7/6/09,,Cordova_Stable_Isotope_AllData_07_10,4014,Alaganik,Uplift Rusty #2,Unknown,Invertebrate,Insect,predator,Odonata,whole insect,-28.353,3.638,
+7/8/09,,Cordova_Stable_Isotope_AllData_07_10,4049,Sheridan,Uplift Pond #2 (Tiedeman),Unknown,Invertebrate,Insect,predator,Odonata,whole insect,-28.948,3.282,
+7/8/09,,Cordova_Stable_Isotope_AllData_07_10,4065,Sheridan,Uplift Pond #1 (Tiedeman),Unknown,Invertebrate,Insect,predator,Odonata,whole insect,-25.851,2.828,
+7/4/09,,Cordova_Stable_Isotope_AllData_07_10,4139,McKinley Lake,,Salmonids,Fish,Fish,predator,Oncorhynchus clarkii,whole fish,-32.006,12.451,
+7/4/09,,Cordova_Stable_Isotope_AllData_07_10,4173,McKinley Lake,,Salmonids,Fish,Fish,predator,Oncorhynchus clarkii,whole fish,-31.601,12.466,
+12-Jul-07,,Cordova_Stable_Isotope_AllData_07_10,5042,Alaganik,Out 2,Salmonids,Fish,Fish,predator,Oncorhynchus kisutch,gutted fish,-25.429,11.03,
+12-Jul-07,,Cordova_Stable_Isotope_AllData_07_10,5047,Alaganik,Out 2,Salmonids,Fish,Fish,predator,Oncorhynchus kisutch,gutted fish,-25.502,11.434,
+12-Jul-07,,Cordova_Stable_Isotope_AllData_07_10,5048,Hay Lily,,Salmonids,Fish,Fish,predator,Oncorhynchus kisutch,gutted fish,-30.723,7.642,
+12-Jul-07,,Cordova_Stable_Isotope_AllData_07_10,5043,Alaganik,Out 2,Salmonids,Fish,Fish,predator,Oncorhynchus kisutch,whole fish,-24.981,12.357,
+12-Jul-07,,Cordova_Stable_Isotope_AllData_07_10,5044,Alaganik,Out 2,Salmonids,Fish,Fish,predator,Oncorhynchus kisutch,whole fish,-26.603,10.742,
+7/7/09,,Cordova_Stable_Isotope_AllData_07_10,4037,Martin Lake,East Shore,Salmonids,Fish,Fish,predator,Oncorhynchus kisutch,whole fish,-26.418,7.115,
+7/7/09,,Cordova_Stable_Isotope_AllData_07_10,4041,Martin Lake,East Shore,Salmonids,Fish,Fish,predator,Oncorhynchus kisutch,whole fish,-25.472,6.532,
+7/7/09,,Cordova_Stable_Isotope_AllData_07_10,4042,Martin Lake,East Shore,Salmonids,Fish,Fish,predator,Oncorhynchus kisutch,whole fish,-26.671,6.981,
+7/4/09,,Cordova_Stable_Isotope_AllData_07_10,4129,McKinley Lake,,Salmonids,Fish,Fish,predator,Oncorhynchus kisutch,whole fish,-26.458,9.99,
+6/25/09,,Cordova_Stable_Isotope_AllData_07_10,4130,McKinley Lake,,Salmonids,Fish,Fish,predator,Oncorhynchus kisutch,whole fish,-31.948,7.428,
+7/4/09,,Cordova_Stable_Isotope_AllData_07_10,4141,McKinley Lake,,Salmonids,Fish,Fish,predator,Oncorhynchus kisutch,whole fish,-22.798,12.732,
+6/25/09,,Cordova_Stable_Isotope_AllData_07_10,4136,McKinley Lake,,Salmonids,Fish,Fish,predator,Oncorhynchus nerka,whole fish,-24.139,12.397,
+7/21/06,,Cordova_Stable_Isotope_AllData_07_10,4354,McKinley Lake,,Salmonids,Fish,Fish,predator,Oncorhynchus nerka,whole fish,-25.082,9.692,
+6/11/09,,Cordova_Stable_Isotope_AllData_07_10,4158,NA,NA,Seabird,Seabird,Bird,predator,Onychoprion aleuticus,egg membrane,-15.5,13.881,
+6/11/09,,Cordova_Stable_Isotope_AllData_07_10,4074,NA,NA,Seabird,Seabird,Bird,predator,Onychoprion aleuticus,egg shell,-11.452,12.467,
+7/21/10,,Cordova_Stable_Isotope_AllData_07_10,4207,Tiedeman,Sheridan #1,Aquatic Detritivore,Invertebrate,Insect,consumer,Phryganeidae,insect larvae,-23.877,3.496,
+7/21/06,,Cordova_Stable_Isotope_AllData_07_10,4350,McKinley Lake,,Aquatic Detritivore,Invertebrate,Insect,consumer,Phryganeidae,insect larvae,-28.375,6.899,
+7/6/09,,Cordova_Stable_Isotope_AllData_07_10,4146,Alaganik,Uplift Rusty #3,Aquatic Detritivore,Invertebrate,Insect,consumer,Phryganeidae,insect larvae,-26.638,2.589,
+7/21/10,,Cordova_Stable_Isotope_AllData_07_10,4208,Tiedeman,Sheridan #1,Unknown,Invertebrate,Insect,detritus,Phryganeidae,caddis case,-28.679,2.408,
+2013,,CRD SI Data,8092,Scott S,NA,Aquatic Detritivore,Invertebrate,Insect,consumer,Phryganeidae,insect larvae,-34.09384024,1.658838042,7.081809774
+2013,,CRD SI Data,8098,Scott S,NA,Aquatic Detritivore,Invertebrate,Insect,consumer,Phryganeidae,insect larvae,-28.87690998,1.406297427,4.551363914
+2013,,CRD SI Data,8130,Rusty W,NA,Aquatic Detritivore,Invertebrate,Insect,consumer,Phryganeidae,insect larvae,-29.08030384,1.865843432,4.462247549
+2013,,CRD SI Data,8144,Tiedeman S,NA,Aquatic Detritivore,Invertebrate,Insect,consumer,Phryganeidae,insect larvae,-28.2819072,2.040487917,4.75281665
+2013,,CRD SI Data,8169,Storey S,NA,Aquatic Detritivore,Invertebrate,Insect,consumer,Phryganeidae,insect larvae,-16.33684518,0.644562391,5.177310156
+2013,,CRD SI Data,8170,Storey S,NA,Aquatic Detritivore,Invertebrate,Insect,consumer,Phryganeidae,insect larvae,-18.78440516,0.836762215,4.723107959
+2013,,CRD SI Data,8218,Rusty E,NA,Aquatic Detritivore,Invertebrate,Insect,consumer,Phryganeidae,insect larvae,-29.06271265,2.147712706,4.87920634
+2013,,CRD SI Data,8245,Tiedeman N,NA,Aquatic Detritivore,Invertebrate,Insect,consumer,Phryganeidae,insect larvae,-30.59655526,2.13511506,4.699220617
+7/6/09,,Cordova_Stable_Isotope_AllData_07_10,4015,Alaganik,Uplift Rusty #2,Aquatic Filterer,Invertebrate,Insect,consumer,Polycentropodidae,insect larvae,-28.197,3.076,
+2013,,CRD SI Data,8193,Storey N,NA,Aquatic Filterer,Invertebrate,Insect,consumer,Polycentropodidae,insect larvae,-31.72209165,2.342710297,6.217667661
+7/5/09,,Cordova_Stable_Isotope_AllData_07_10,3971,Sheridan,Outwash #2,Aquatic Producer,Macrophyte,Plant,producer,Potamogeton natans,plant leaf,-28.505,3.142,
+7/5/09,,Cordova_Stable_Isotope_AllData_07_10,3987,Scott,Outwash Lily Pond,Aquatic Producer,Macrophyte,Plant,producer,Potamogeton natans,plant leaf,-30.27,-1.14,
+7/8/09,,Cordova_Stable_Isotope_AllData_07_10,4045,Sheridan,Uplift Pond #2 (Tiedeman),Aquatic Producer,Macrophyte,Plant,producer,Potamogeton natans,plant leaf,-26.859,0.241,
+7/8/09,,Cordova_Stable_Isotope_AllData_07_10,4058,Sheridan,Uplift Pond #1 (Tiedeman),Aquatic Producer,Macrophyte,Plant,producer,Potamogeton natans,plant leaf,-28.097,1.064,
+7/7/09,,Cordova_Stable_Isotope_AllData_07_10,4024,Martin Lake,East Shore,Aquatic Producer,Macrophyte,Plant,producer,Potamogeton richardsoni,plant leaf,-12.547,1.707,
+7/21/06,,Cordova_Stable_Isotope_AllData_07_10,4287,McKinley Lake,,Aquatic Producer,Macrophyte,Plant,producer,Potamogeton richardsoni,plant leaf,-14.251,4.57,
+7/21/06,,Cordova_Stable_Isotope_AllData_07_10,4288,McKinley Lake,,Aquatic Producer,Macrophyte,Plant,producer,Potamogeton richardsoni,plant leaf,-14.016,1.522,
+7/21/06,,Cordova_Stable_Isotope_AllData_07_10,4289,McKinley Lake,,Aquatic Producer,Macrophyte,Plant,producer,Potamogeton richardsoni,plant leaf,-13.719,1.678,
+7/21/06,,Cordova_Stable_Isotope_AllData_07_10,4290,McKinley Lake,,Aquatic Producer,Macrophyte,Plant,producer,Potamogeton richardsoni,plant leaf,-14.119,4.298,
+7/21/06,,Cordova_Stable_Isotope_AllData_07_10,4291,McKinley Lake,,Aquatic Producer,Macrophyte,Plant,producer,Potamogeton richardsoni,plant leaf,-14.671,3.355,
+12-Jul-08,,Cordova_Stable_Isotope_AllData_07_10,3114,McKinley Lake,,Aquatic Herbivore,Invertebrate,Insect,herbivore,Psychoglypha,insect larvae,-31.436,4.849,
+7/21/06,,Cordova_Stable_Isotope_AllData_07_10,4284,McKinley Lake,,Aquatic Producer,Macrophyte,Plant,producer,Ranunculus trichophyllus,whole plant,-16.405,1.11,
+7/21/06,,Cordova_Stable_Isotope_AllData_07_10,4285,McKinley Lake,,Aquatic Producer,Macrophyte,Plant,producer,Ranunculus trichophyllus,whole plant,-16.35,2.472,
+7/21/06,,Cordova_Stable_Isotope_AllData_07_10,4286,McKinley Lake,,Aquatic Producer,Macrophyte,Plant,producer,Ranunculus trichophyllus,whole plant,-16.194,3.579,
+12-Jul-07,,Cordova_Stable_Isotope_AllData_07_10,5051,Sheridan,Out 2 ,Salmonids,Fish,Fish,predator,Salvelinus malma,gutted fish,-27.442,8.73,
+7/7/09,,Cordova_Stable_Isotope_AllData_07_10,4040,Martin Lake,East Shore,Salmonids,Fish,Fish,predator,Salvelinus malma,whole fish,-19.842,13.755,
+7/5/09,,Cordova_Stable_Isotope_AllData_07_10,3955,Sheridan,Square Pond,Semi-aquatic Producer,Macrophyte,Plant,producer,Scirpus microcarpus,whole plant,-26.77,2.048,
+7/5/09,,Cordova_Stable_Isotope_AllData_07_10,3969,Sheridan,Outwash #2,Semi-aquatic Producer,Macrophyte,Plant,producer,Scirpus microcarpus,whole plant,-27.324,5.322,
+7/6/09,,Cordova_Stable_Isotope_AllData_07_10,3999,Alaganik,Uplift Rusty #3,Semi-aquatic Producer,Macrophyte,Plant,producer,Scirpus microcarpus,whole plant,-27.14,3.096,
+7/7/09,,Cordova_Stable_Isotope_AllData_07_10,4025,Martin Lake,East Shore,Semi-aquatic Producer,Macrophyte,Plant,producer,Scirpus microcarpus,whole plant,-29.729,2.711,
+7/20/06,,Cordova_Stable_Isotope_AllData_07_10,4263,Alaganik,Mud Flat,Semi-aquatic Producer,Macrophyte,Plant,producer,Sedge,grazed plant,-27.974,7.731,
+7/20/06,,Cordova_Stable_Isotope_AllData_07_10,4264,Alaganik,Mud Flat,Semi-aquatic Producer,Macrophyte,Plant,producer,Sedge,grazed plant,-28.196,6.914,
+7/20/06,,Cordova_Stable_Isotope_AllData_07_10,4265,Alaganik,Mud Flat,Semi-aquatic Producer,Macrophyte,Plant,producer,Sedge,grazed plant,-27.897,6.76,
+7/20/06,,Cordova_Stable_Isotope_AllData_07_10,4274,Alaganik,Mud Flat,Semi-aquatic Producer,Macrophyte,Plant,producer,Sedge,plant no head,-26.231,3.68,
+7/20/06,,Cordova_Stable_Isotope_AllData_07_10,4275,Alaganik,Mud Flat,Semi-aquatic Producer,Macrophyte,Plant,producer,Sedge,plant no head,-25.779,3.434,
+7/20/06,,Cordova_Stable_Isotope_AllData_07_10,4266,Alaganik,Mud Flat,Semi-aquatic Producer,Macrophyte,Plant,producer,Sedge,plant seeds,-25.842,3.715,
+7/20/06,,Cordova_Stable_Isotope_AllData_07_10,4267,Alaganik,Mud Flat,Semi-aquatic Producer,Macrophyte,Plant,producer,Sedge,plant seeds,-24.494,3.815,
+7/20/06,,Cordova_Stable_Isotope_AllData_07_10,4268,Alaganik,Mud Flat,Semi-aquatic Producer,Macrophyte,Plant,producer,Sedge,plant seeds,-25.622,3.683,
+7/20/06,,Cordova_Stable_Isotope_AllData_07_10,4269,Alaganik,Mud Flat,Semi-aquatic Producer,Macrophyte,Plant,producer,Sedge,plant seeds,-23.731,3.777,
+7/20/06,,Cordova_Stable_Isotope_AllData_07_10,4270,Alaganik,Mud Flat,Semi-aquatic Producer,Macrophyte,Plant,producer,Sedge,plant seeds,-26.018,3.49,
+7/20/06,,Cordova_Stable_Isotope_AllData_07_10,4271,Alaganik,Mud Flat,Semi-aquatic Producer,Macrophyte,Plant,producer,Sedge,plant seeds,-23.965,3.547,
+7/20/06,,Cordova_Stable_Isotope_AllData_07_10,4272,Alaganik,Mud Flat,Semi-aquatic Producer,Macrophyte,Plant,producer,Sedge,plant seeds,-25.409,3.59,
+7/20/06,,Cordova_Stable_Isotope_AllData_07_10,4273,Alaganik,Mud Flat,Semi-aquatic Producer,Macrophyte,Plant,producer,Sedge,plant seeds,-25.07,3.627,
+2013,,CRD SI Data,8164,Storey S,NA,Unknown,Invertebrate,Insect,consumer,Siphlonurus spp.,whole insect,-26.57394654,1.29744736,4.76951251
+7/5/09,,Cordova_Stable_Isotope_AllData_07_10,3980,Sheridan,Outwash #2,Aquatic Herbivore,Invertebrate,Other Invertebrate,herbivore,Snails,gastropod,-35.017,0.681,
+7/5/09,,Cordova_Stable_Isotope_AllData_07_10,3963,Sheridan,Square Pond,Aquatic Herbivore,Invertebrate,Other Invertebrate,herbivore,Snails,gastropod,-29.913,2.004,
+7/5/09,,Cordova_Stable_Isotope_AllData_07_10,3960,Sheridan,Square Pond,Aquatic Herbivore,Invertebrate,Other Invertebrate,herbivore,Snails,gastropod,-28.569,1.548,
+7/7/09,,Cordova_Stable_Isotope_AllData_07_10,4032,Martin Lake,East Shore,Aquatic Herbivore,Invertebrate,Other Invertebrate,herbivore,Snails,gastropod,-23.818,1.27,
+6/25/09,,Cordova_Stable_Isotope_AllData_07_10,4126,McKinley Lake,,Aquatic Herbivore,Invertebrate,Other Invertebrate,herbivore,Snails,gastropod,-28.776,6.94,
+7/7/09,,Cordova_Stable_Isotope_AllData_07_10,4033,Martin Lake,East Shore,Aquatic Herbivore,Invertebrate,Other Invertebrate,herbivore,Snails,gastropod,-23.771,3.031,
+6/25/09,,Cordova_Stable_Isotope_AllData_07_10,4125,McKinley Lake,,Aquatic Herbivore,Invertebrate,Other Invertebrate,herbivore,Snails,gastropod,-29.97,5.215,
+7/19/10,,Cordova_Stable_Isotope_AllData_07_10,4195,Sheridan,Square Pond,Aquatic Herbivore,Invertebrate,Other Invertebrate,herbivore,Snails,gastropod,-32.855,2.186,
+7/21/06,,Cordova_Stable_Isotope_AllData_07_10,4347,McKinley Lake,,Aquatic Herbivore,Invertebrate,Other Invertebrate,herbivore,Snails,gastropod,-26.321,4.91,
+7/19/10,,Cordova_Stable_Isotope_AllData_07_10,4196,Sheridan,Square Pond,Aquatic Herbivore,Invertebrate,Other Invertebrate,herbivore,Snails,gastropod,-29.387,1.821,
+7/21/06,,Cordova_Stable_Isotope_AllData_07_10,4348,McKinley Lake,,Aquatic Herbivore,Invertebrate,Other Invertebrate,herbivore,Snails,gastropod,-26.216,4.347,
+7/19/10,,Cordova_Stable_Isotope_AllData_07_10,4197,Sheridan,Square Pond,Aquatic Herbivore,Invertebrate,Other Invertebrate,herbivore,Snails,gastropod,-30.162,1.897,
+7/21/06,,Cordova_Stable_Isotope_AllData_07_10,4349,McKinley Lake,,Aquatic Herbivore,Invertebrate,Other Invertebrate,herbivore,Snails,gastropod,-25.05,3.889,
+7/6/09,,Cordova_Stable_Isotope_AllData_07_10,4000,Alaganik,Uplift Rusty #3,Semi-aquatic Producer,Macrophyte,Plant,producer,Sparganium augustifolium,whole plant,-28.358,2.313,
+7/7/09,,Cordova_Stable_Isotope_AllData_07_10,4026,Martin Lake,East Shore,Semi-aquatic Producer,Macrophyte,Plant,producer,Sparganium augustifolium,whole plant,-27.201,1.097,
+7/21/06,,Cordova_Stable_Isotope_AllData_07_10,4283,McKinley Lake,,Semi-aquatic Producer,Macrophyte,Plant,producer,Sparganium spp.,whole plant,-26.23,3.965,
+7/6/09,,Cordova_Stable_Isotope_AllData_07_10,4018,Alaganik,Uplift Rusty #2,Aquatic Filterer,Invertebrate,Other Invertebrate,consumer,Sphaeriidae,bivalve,-29.331,2.364,
+7/7/09,,Cordova_Stable_Isotope_AllData_07_10,4035,Martin Lake,East Shore,Aquatic Filterer,Invertebrate,Other Invertebrate,consumer,Sphaeriidae,bivalve,-29.526,2.704,
+7/8/09,,Cordova_Stable_Isotope_AllData_07_10,4067,Sheridan,Uplift Pond #1 (Tiedeman),Aquatic Filterer,Invertebrate,Other Invertebrate,consumer,Sphaeriidae,bivalve,-26.22,2.138,
+NA,,Cordova_Stable_Isotope_AllData_07_10,4121,McKinley Lake,,Aquatic Filterer,Invertebrate,Other Invertebrate,consumer,Sphaeriidae,bivalve,-22.229,6.947,
+7/6/09,,Cordova_Stable_Isotope_AllData_07_10,4155,Alaganik,Uplift Rusty #3,Aquatic Filterer,Invertebrate,Other Invertebrate,consumer,Sphaeriidae,bivalve,-30.437,0.384,
+7/19/10,,Cordova_Stable_Isotope_AllData_07_10,4191,Sheridan,Square Pond,Aquatic Filterer,Invertebrate,Other Invertebrate,consumer,Sphaeriidae,bivalve,-31.702,2.836,
+7/21/10,,Cordova_Stable_Isotope_AllData_07_10,4198,Tiedeman,Sheridan #1,Aquatic Filterer,Invertebrate,Other Invertebrate,consumer,Sphaeriidae,bivalve,-27.151,2.631,
+7/23/10,,Cordova_Stable_Isotope_AllData_07_10,4226,Tiedeman,Sheridan #2,Aquatic Filterer,Invertebrate,Other Invertebrate,consumer,Sphaeriidae,bivalve,-30,0.435,
+7/21/06,,Cordova_Stable_Isotope_AllData_07_10,4292,McKinley Lake,,Aquatic Filterer,Invertebrate,Other Invertebrate,consumer,Sphaeriidae,bivalve,-27.316,4.157,
+7/21/06,,Cordova_Stable_Isotope_AllData_07_10,4385,McKinley Lake,,Aquatic Filterer,Invertebrate,Other Invertebrate,consumer,Sphaeriidae,bivalve,-23.588,4.543,
+7/21/06,,Cordova_Stable_Isotope_AllData_07_10,4345,McKinley Lake,,Aquatic Filterer,Invertebrate,Other Invertebrate,consumer,Sphaeriidae,bivalve,-30.385,4.053,
+2013,,CRD SI Data,8064,Lily,NA,Aquatic Filterer,Invertebrate,Other Invertebrate,consumer,Sphaeriidae,bivalve,-19.01818143,1.71399059,9.192541212
+2013,,CRD SI Data,8106,Scott S,NA,Aquatic Filterer,Invertebrate,Other Invertebrate,consumer,Sphaeriidae,bivalve,-19.81964879,2.402864137,8.540331052
+2013,,CRD SI Data,8120,Eyak S,NA,Aquatic Filterer,Invertebrate,Other Invertebrate,consumer,Sphaeriidae,bivalve,-17.58183852,1.672515979,8.287048625
+2013,,CRD SI Data,8129,Rusty W,NA,Aquatic Filterer,Invertebrate,Other Invertebrate,consumer,Sphaeriidae,bivalve,-18.45236091,3.343138572,9.371191019
+2013,,CRD SI Data,8161,Storey S,NA,Aquatic Filterer,Invertebrate,Other Invertebrate,consumer,Sphaeriidae,bivalve,-14.46797562,5.708136107,13.05620898
+2013,,CRD SI Data,8182,Storey N,NA,Aquatic Filterer,Invertebrate,Other Invertebrate,consumer,Sphaeriidae,bivalve,-27.17001439,1.312732254,7.958417993
+2013,,CRD SI Data,8209,Rusty E,NA,Aquatic Filterer,Invertebrate,Other Invertebrate,consumer,Sphaeriidae,bivalve,-22.13947714,4.001948556,10.05373117
+2013,,CRD SI Data,8242,Tiedeman N,NA,Aquatic Filterer,Invertebrate,Other Invertebrate,consumer,Sphaeriidae,bivalve,-18.38705678,2.585723153,12.59428113
+7/6/09,,Cordova_Stable_Isotope_AllData_07_10,4001,Alaganik,Uplift Rusty #3,Terrestrial Prod.,Macrophyte,Plant,producer,Sphagnum sp.,moss,-26.232,-0.911,
+6/10/09,,Cordova_Stable_Isotope_AllData_07_10,4099,NA,4C,Aquatic Detritivore,Terr. Invertebrate,Insect,consumer,Tipulidae,whole insect,-25.841,4.284,
+6/25/09,,Cordova_Stable_Isotope_AllData_07_10,4122,McKinley Lake,,Unknown,Invertebrate,Insect,consumer,Trichoptera,insect larvae,-26.334,0.767,
+7/7/09,,Cordova_Stable_Isotope_AllData_07_10,4034,Martin Lake,East Shore,Unknown,Invertebrate,Insect,consumer,Trichoptera,mix insect,-23.973,1.981,
+7/5/09,,Cordova_Stable_Isotope_AllData_07_10,3956,Sheridan,Square Pond,Unknown,Invertebrate,Insect,consumer,Trichoptera,whole insect,-30.481,3.251,
+6/8/09,,Cordova_Stable_Isotope_AllData_07_10,4086,NA,1A,Unknown,Terr. Invertebrate,Insect,herbivore,Trichoptera,whole insect,-27.052,3.085,
+6/9/09,,Cordova_Stable_Isotope_AllData_07_10,4094,NA,3A,Unknown,Terr. Invertebrate,Insect,herbivore,Trichoptera,whole insect,-27.581,3.983,
+6/10/09,,Cordova_Stable_Isotope_AllData_07_10,4092,NA,2D,Unknown,Terr. Invertebrate,Insect,herbivore,Trichoptera,whole insect,-28.031,4.318,
+NA,,Cordova_Stable_Isotope_AllData_07_10,4160,NA,NA,Songbird,Songbird,Bird,predator,Turdus migratorius,egg membrane,-22.281,4.209,
+NA,,Cordova_Stable_Isotope_AllData_07_10,4080,NA,NA,Songbird,Songbird,Bird,predator,Turdus migratorius,egg shell,-16.728,6,
+2013,,CRD SI Data,8152,Tiedeman S,NA,Aquatic Filterer,Invertebrate,Other Invertebrate,detritivore,Unionidae,bivalve,-30.69457127,5.050297534,4.466070417
+7/5/09,,Cordova_Stable_Isotope_AllData_07_10,4119,McKinley Lake,,Aquatic Herbivore,Plankton,Other Invertebrate,consumer,Zooplankton,plankton mix,-32.824,6.966,
+6/8/09,,Cordova_Stable_Isotope_AllData_07_10,4111,NA,Site:1 061009,Terr. Predator,Aerial Invertebrate,Insect,predator,Zygoptera,whole insect,-27.827,4.509,
+6/10/09,,Cordova_Stable_Isotope_AllData_07_10,4112,NA,Site:4 061209,Terr. Predator,Aerial Invertebrate,Insect,predator,Zygoptera,whole insect,-26.536,4.541,
+6/10/09,,Cordova_Stable_Isotope_AllData_07_10,4110,NA,Site:2 061209,Terr. Predator,Aerial Invertebrate,Insect,predator,Zygoptera,whole insect,-29.469,5.093,
